@@ -1,4 +1,8 @@
-{  
+{
+  "DisabledItems": [
+    "banan",
+    "minigun"
+  ],
   "UpdateDetails": [
     {
       "GunName": "mk17",
