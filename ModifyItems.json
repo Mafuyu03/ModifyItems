@@ -1,0 +1,40 @@
+{  
+  "UpdateDetails": [
+    {
+      "GunName": "mk17",
+      "BuyMenu": {
+        "Category": 0,
+        "TeamId": -1,
+        "Cost": 3500
+      },
+      "KillBonus": 100,
+      "BaseDamage": 25,
+      "ArmourDamage": 25,
+      "ArmourPenetration": 100,
+      "HelmetDamage": 100,
+      "HelmetBleed": 75,
+      "GunPenetration": 100,
+      "FalloffModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
+    },
+    {
+      "GunName": "mk17_blk",
+      "BuyMenu": {
+        "Category": 0,
+        "TeamId": -1,
+        "Cost": 3500
+      },
+      "KillBonus": 100,
+      "BaseDamage": 25,
+      "ArmourDamage": 25,
+      "ArmourPenetration": 100,
+      "HelmetDamage": 100,
+      "HelmetBleed": 75,
+      "GunPenetration": 100,
+      "FalloffModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
+    }
+  ]
+}
