@@ -35,6 +35,42 @@
       "FalloddModifier": 1,
       "MinFalloffDist": 500,
       "MaxFalloffDist": 4000
+    },
+    {
+      "GunName": "glock19",
+      "BuyMenu": {
+        "Category": 0,
+        "TeamId": -1,
+        "Cost": 700
+      },
+      "KillBonus": 700,
+      "BaseDamage": 25,
+      "ArmourDamage": 15,
+      "ArmourPenetration": 60,
+      "HelmetDamage": 50,
+      "HelmetBleed": 50,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
+    },
+        {
+      "GunName": "glock19_army",
+      "BuyMenu": {
+        "Category": 0,
+        "TeamId": -1,
+        "Cost": 700
+      },
+      "KillBonus": 700,
+      "BaseDamage": 25,
+      "ArmourDamage": 15,
+      "ArmourPenetration": 60,
+      "HelmetDamage": 50,
+      "HelmetBleed": 50,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
     }
   ]
 }
