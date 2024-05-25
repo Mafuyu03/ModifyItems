@@ -26,8 +26,8 @@
         "Cost": 3500
       },
       "KillBonus": 100,
-      "BaseDamage": 25,
-      "ArmourDamage": 25,
+      "BaseDamage": 20,
+      "ArmourDamage": 20,
       "ArmourPenetration": 100,
       "HelmetDamage": 100,
       "HelmetBleed": 75,
