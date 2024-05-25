@@ -14,7 +14,7 @@
       "HelmetDamage": 100,
       "HelmetBleed": 75,
       "GunPenetration": 100,
-      "FalloffModifier": 1,
+      "FalloddModifier": 1,
       "MinFalloffDist": 500,
       "MaxFalloffDist": 4000
     },
@@ -26,13 +26,13 @@
         "Cost": 3500
       },
       "KillBonus": 100,
-      "BaseDamage": 20,
-      "ArmourDamage": 20,
+      "BaseDamage": 25,
+      "ArmourDamage": 25,
       "ArmourPenetration": 100,
       "HelmetDamage": 100,
       "HelmetBleed": 75,
       "GunPenetration": 100,
-      "FalloffModifier": 1,
+      "FalloddModifier": 1,
       "MinFalloffDist": 500,
       "MaxFalloffDist": 4000
     }
