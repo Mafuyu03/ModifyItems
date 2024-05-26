@@ -122,23 +122,22 @@
       "MaxFalloffDist": 4000
     },
     {
-			"GunName": "aks74u",
-			"BuyMenuDetails":
-			{
-				"BuyMenuCategory": "Smg",
-				"TeamId": -1,
-				"Cost": 1500,
-			},
-			"KillBonus": 500,
-			"BaseDamage": 20,
-			"ArmourDamage": 20,
-			"ArmourPenetration": 84,
-			"HelmetDamage": 100,
-			"HelmetBleed": 60,
-			"Penetration": 100,
-			"FalloffModifier": 1,
-			"MinFalloffDist": 500,
-			"MaxFalloffDist": 4000
-		},
+      "GunName": "aks74u",
+      "BuyMenu": {
+        "Category": 0,
+        "TeamId": -1,
+        "Cost": 1500
+      },
+      "KillBonus": 500,
+      "BaseDamage": 20,
+      "ArmourDamage": 20,
+      "ArmourPenetration": 84,
+      "HelmetDamage": 100,
+      "HelmetBleed": 60,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
+      },
   ]
 }
