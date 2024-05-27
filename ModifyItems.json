@@ -29,12 +29,12 @@
     "msmoke_gp25",
     "msmoke_m203",
     "scope_compm4",
-    "scope_vudu",
     "scope_elcanspecter",
+    "scope_vudu",
     "supp_m110"
   ],
   "UpdateDetails": [
-      {
+    {
       "GunName": "mk17",
       "BuyMenu": {
         "Category": 0,
@@ -52,7 +52,7 @@
       "MinFalloffDist": 500,
       "MaxFalloffDist": 4000
     },
-      {
+    {
       "GunName": "mk17_blk",
       "BuyMenu": {
         "Category": 0,
@@ -70,7 +70,7 @@
       "MinFalloffDist": 500,
       "MaxFalloffDist": 4000
     },
-      {
+    {
       "GunName": "glock19",
       "BuyMenu": {
         "Category": 0,
@@ -106,7 +106,7 @@
       "MinFalloffDist": 500,
       "MaxFalloffDist": 4000
     },
-      {
+    {
       "GunName": "aks74u",
       "BuyMenu": {
         "Category": 0,
@@ -123,15 +123,141 @@
       "FalloddModifier": 1,
       "MinFalloffDist": 500,
       "MaxFalloffDist": 4000
+    },
+    {
+      "GunName": "scope_1p63",
+      "BuyMenu": {
+        "Category": 0,
+        "TeamId": -1,
+        "Cost": 500
       },
-        {
-        "GunName": "scope_kobra",
-        "BuyMenu": {
-          "Category": 0,
-          "TeamId": -1,
-          "Cost": 400
-        },
-        "KillBonus": 0
-      }
+      "KillBonus": 0
+    },
+    {
+      "GunName": "scope_1p69",
+      "BuyMenu": {
+        "Category": 0,
+        "TeamId": -1,
+        "Cost": 500
+      },
+      "KillBonus": 0
+    },
+    {
+      "GunName": "scope_1p69_alt",
+      "BuyMenu": {
+        "Category": 0,
+        "TeamId": -1,
+        "Cost": 500
+      },
+      "KillBonus": 0
+    },
+    {
+      "GunName": "scope_1p78",
+      "BuyMenu": {
+        "Category": 0,
+        "TeamId": -1,
+        "Cost": 500
+      },
+      "KillBonus": 0
+    },
+    {
+      "GunName": "scope_kobra",
+      "BuyMenu": {
+        "Category": 0,
+        "TeamId": -1,
+        "Cost": 400
+      },
+      "KillBonus": 0
+    },
+    {
+      "GunName": "scope_leupoldmk4",
+      "BuyMenu": {
+        "Category": 0,
+        "TeamId": -1,
+        "Cost": 400
+      },
+      "KillBonus": 0
+    },
+    {
+      "GunName": "scope_m145",
+      "BuyMenu": {
+        "Category": 0,
+        "TeamId": -1,
+        "Cost": 400
+      },
+      "KillBonus": 0
+    },
+    {
+      "GunName": "scope_m150",
+      "BuyMenu": {
+        "Category": 0,
+        "TeamId": -1,
+        "Cost": 400
+      },
+      "KillBonus": 0
+    },
+    {
+      "GunName": "scope_microt1",
+      "BuyMenu": {
+        "Category": 0,
+        "TeamId": -1,
+        "Cost": 500
+      },
+      "KillBonus": 0
+    },
+    {
+      "GunName": "scope_microt1_tall",
+      "BuyMenu": {
+        "Category": 0,
+        "TeamId": -1,
+        "Cost": 500
+      },
+      "KillBonus": 0
+    },
+    {
+      "GunName": "scope_okp7",
+      "BuyMenu": {
+        "Category": 0,
+        "TeamId": -1,
+        "Cost": 400
+      },
+      "KillBonus": 0
+    },
+    {
+      "GunName": "scope_pk06",
+      "BuyMenu": {
+        "Category": 0,
+        "TeamId": -1,
+        "Cost": 400
+      },
+      "KillBonus": 0
+    },
+    {
+      "GunName": "scope_pka",
+      "BuyMenu": {
+        "Category": 0,
+        "TeamId": -1,
+        "Cost": 400
+      },
+      "KillBonus": 0
+    },
+    {
+      "GunName": "scope_pkas",
+      "BuyMenu": {
+        "Category": 0,
+        "TeamId": -1,
+        "Cost": 400
+      },
+      "KillBonus": 0
+    },
+    {
+      "GunName": "scope_pso1",
+      "BuyMenu": {
+        "Category": 0,
+        "TeamId": -1,
+        "Cost": 400
+      },
+      "KillBonus": 0
+    }
   ]
 }
