@@ -39,9 +39,9 @@
       "BuyMenu": {
         "Category": 0,
         "TeamId": -1,
-        "Cost": 2500
+        "Cost": 2800
       },
-      "KillBonus": 500,
+      "KillBonus": 100,
       "BaseDamage": 25,
       "ArmourDamage": 25,
       "ArmourPenetration": 100,
@@ -57,9 +57,9 @@
       "BuyMenu": {
         "Category": 0,
         "TeamId": -1,
-        "Cost": 2500
+        "Cost": 2800
       },
-      "KillBonus": 500,
+      "KillBonus": 100,
       "BaseDamage": 25,
       "ArmourDamage": 25,
       "ArmourPenetration": 100,
