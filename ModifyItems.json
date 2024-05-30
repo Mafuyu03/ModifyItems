@@ -274,6 +274,15 @@
         "Cost": 400
       },
       "KillBonus": 0
+    },
+    {
+      "GunName": "ballisticsshield",
+      "BuyMenu": {
+        "Category": 0,
+        "TeamId": -1,
+        "Cost": 1200
+      },
+      "KillBonus": 0
     }
   ]
 }
