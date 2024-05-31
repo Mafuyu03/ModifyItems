@@ -141,6 +141,42 @@
       "MaxFalloffDist": 4000
     },
     {
+      "GunName": "mp7",
+      "BuyMenu": {
+        "Category": 0,
+        "TeamId": -1,
+        "Cost": 2200
+      },
+      "KillBonus": 300,
+      "BaseDamage": 20,
+      "ArmourDamage": 12,
+      "ArmourPenetration": 63,
+      "HelmetDamage": 50,
+      "HelmetBleed": 65,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
+    },
+    {
+      "GunName": "mp7_tan",
+      "BuyMenu": {
+        "Category": 0,
+        "TeamId": -1,
+        "Cost": 2200
+      },
+      "KillBonus": 300,
+      "BaseDamage": 20,
+      "ArmourDamage": 12,
+      "ArmourPenetration": 63,
+      "HelmetDamage": 50,
+      "HelmetBleed": 65,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
+    },
+    {
       "GunName": "scope_1p63",
       "BuyMenu": {
         "Category": 0,
@@ -272,6 +308,15 @@
         "Category": 0,
         "TeamId": -1,
         "Cost": 400
+      },
+      "KillBonus": 0
+    },
+    {
+      "GunName": "xps3",
+      "BuyMenu": {
+        "Category": 0,
+        "TeamId": -1,
+        "Cost": 500
       },
       "KillBonus": 0
     }
