@@ -21,8 +21,6 @@
     "svd",
     "svdm",
     "bayonet_ak47",
-    "grip_vg_kac",
-    "grip_vg_mod3",
     "mnade_gp25",
     "mnade_m203",
     "msmoke_m203",
@@ -313,6 +311,24 @@
     },
     {
       "GunName": "xps3",
+      "BuyMenu": {
+        "Category": 0,
+        "TeamId": -1,
+        "Cost": 500
+      },
+      "KillBonus": 0
+    },
+    {
+      "GunName": "grip_vg_kac",
+      "BuyMenu": {
+        "Category": 0,
+        "TeamId": -1,
+        "Cost": 500
+      },
+      "KillBonus": 0
+    },
+    {
+      "GunName": "grip_vg_mod3",
       "BuyMenu": {
         "Category": 0,
         "TeamId": -1,
