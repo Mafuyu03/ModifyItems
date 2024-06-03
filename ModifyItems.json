@@ -20,7 +20,6 @@
     "sv98",
     "svd",
     "svdm",
-    "bayonet_ak47",
     "mnade_gp25",
     "mnade_m203",
     "msmoke_m203",
@@ -304,6 +303,15 @@
     },
     {
       "GunName": "scope_pso1",
+      "BuyMenu": {
+        "Category": 0,
+        "TeamId": -1,
+        "Cost": 400
+      },
+      "KillBonus": 0
+    },
+    {
+      "GunName": "bayonet_ak47",
       "BuyMenu": {
         "Category": 0,
         "TeamId": -1,
