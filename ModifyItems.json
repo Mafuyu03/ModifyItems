@@ -28,7 +28,8 @@
     "scope_compm4",
     "scope_elcanspecter",
     "scope_vudu",
-    "supp_m110"
+    "supp_m110",
+    "bayonet_ak47"
   ],
   "UpdateDetails": [
     {
@@ -146,12 +147,12 @@
         "TeamId": -1,
         "Cost": 2200
       },
-      "KillBonus": 300,
+      "KillBonus": 500,
       "BaseDamage": 20,
-      "ArmourDamage": 14,
-      "ArmourPenetration": 72,
+      "ArmourDamage": 12,
+      "ArmourPenetration": 63,
       "HelmetDamage": 50,
-      "HelmetBleed": 65,
+      "HelmetBleed": 60,
       "GunPenetration": 100,
       "FalloddModifier": 1,
       "MinFalloffDist": 500,
@@ -164,12 +165,12 @@
         "TeamId": -1,
         "Cost": 2200
       },
-      "KillBonus": 300,
+      "KillBonus": 500,
       "BaseDamage": 20,
-      "ArmourDamage": 14,
-      "ArmourPenetration": 72,
+      "ArmourDamage": 12,
+      "ArmourPenetration": 63,
       "HelmetDamage": 50,
-      "HelmetBleed": 65,
+      "HelmetBleed": 60,
       "GunPenetration": 100,
       "FalloddModifier": 1,
       "MinFalloffDist": 500,
@@ -303,15 +304,6 @@
     },
     {
       "GunName": "scope_pso1",
-      "BuyMenu": {
-        "Category": 0,
-        "TeamId": -1,
-        "Cost": 400
-      },
-      "KillBonus": 0
-    },
-    {
-      "GunName": "bayonet_ak47",
       "BuyMenu": {
         "Category": 0,
         "TeamId": -1,
