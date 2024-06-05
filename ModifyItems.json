@@ -47,7 +47,7 @@
       "HelmetDamage": 50,
       "HelmetBleed": 50,
       "GunPenetration": 100,
-      "FalloffModifier": 1.0,
+      "FalloddModifier": 1,
       "MinFalloffDist": 500,
       "MaxFalloffDist": 4000
     },
