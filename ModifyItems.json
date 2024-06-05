@@ -35,6 +35,24 @@
   ],
   "UpdateDetails": [
     {
+      "GunName": "m9a1",
+      "BuyMenu": {
+        "Category": 0,
+        "TeamId": -1,
+        "Cost": 250
+      },
+      "KillBonus": 700,
+      "BaseDamage": 20,
+      "ArmourDamage": 12,
+      "ArmourPenetration": 60,
+      "HelmetDamage": 50,
+      "HelmetBleed": 50,
+      "GunPenetration": 100,
+      "FalloffModifier": 1.0,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
+    },
+    {
       "GunName": "mk17",
       "BuyMenu": {
         "Category": 0,
