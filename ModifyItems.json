@@ -207,9 +207,9 @@
       "HelmetDamage": 50,
       "HelmetBleed": 60,
       "GunPenetration": 100,
-      "FalloddModifier": 1,
-      "MinFalloffDist": 500,
-      "MaxFalloffDist": 4000
+      "FalloddModifier": 0.88,
+      "MinFalloffDist": 1000,
+      "MaxFalloffDist": 1250
     },
     {
       "GunName": "mp7_tan",
@@ -225,9 +225,9 @@
       "HelmetDamage": 50,
       "HelmetBleed": 60,
       "GunPenetration": 100,
-      "FalloddModifier": 1,
-      "MinFalloffDist": 500,
-      "MaxFalloffDist": 4000
+      "FalloddModifier": 0.88,
+      "MinFalloffDist": 1000,
+      "MaxFalloffDist": 1250
     },
     {
       "GunName": "scope_1p63",
