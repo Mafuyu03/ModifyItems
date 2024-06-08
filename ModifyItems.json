@@ -21,7 +21,6 @@
     "mnade_gp25",
     "mnade_m203",
     "msmoke_m203",
-    "grip_vg_kac",
     "grip_vg_mod3",
     "scope_compm4",
     "scope_elcanspecter",
@@ -386,6 +385,15 @@
         "Category": 0,
         "TeamId": -1,
         "Cost": 500
+      },
+      "KillBonus": 0
+    },
+    {
+      "GunName": "grip_vg_kac",
+      "BuyMenu": {
+        "Category": 0,
+        "TeamId": -1,
+        "Cost": 400
       },
       "KillBonus": 0
     }
