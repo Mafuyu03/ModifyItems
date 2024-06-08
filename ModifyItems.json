@@ -8,7 +8,6 @@
     "ak47gp25_cm",
     "m110",
     "m110_tan",
-    "m16a3",
     "m16a3m203",
     "m16a4",
     "m16a4m203",
@@ -21,7 +20,6 @@
     "mnade_gp25",
     "mnade_m203",
     "msmoke_m203",
-    "grip_vg_mod3",
     "scope_compm4",
     "scope_elcanspecter",
     "scope_vudu",
@@ -245,6 +243,24 @@
       "MaxFalloffDist": 1250
     },
     {
+      "GunName": "m16a3",
+      "BuyMenu": {
+        "Category": 0,
+        "TeamId": -1,
+        "Cost": 2500
+      },
+      "KillBonus": 300,
+      "BaseDamage": 20,
+      "ArmourDamage": 20,
+      "ArmourPenetration": 100,
+      "HelmetDamage": 50,
+      "HelmetBleed": 75,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
+    },
+    {
       "GunName": "scope_1p63",
       "BuyMenu": {
         "Category": 0,
@@ -390,6 +406,15 @@
     },
     {
       "GunName": "grip_vg_kac",
+      "BuyMenu": {
+        "Category": 0,
+        "TeamId": -1,
+        "Cost": 400
+      },
+      "KillBonus": 0
+    },
+    {
+      "GunName": "grip_vg_mod3",
       "BuyMenu": {
         "Category": 0,
         "TeamId": -1,
