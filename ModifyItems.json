@@ -249,11 +249,11 @@
         "TeamId": -1,
         "Cost": 2500
       },
-      "KillBonus": 300,
+      "KillBonus": 100,
       "BaseDamage": 20,
       "ArmourDamage": 20,
       "ArmourPenetration": 100,
-      "HelmetDamage": 50,
+      "HelmetDamage": 100,
       "HelmetBleed": 75,
       "GunPenetration": 100,
       "FalloddModifier": 1,
