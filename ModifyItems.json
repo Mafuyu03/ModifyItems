@@ -29,7 +29,7 @@
     {
       "GunName": "webley",
       "BuyMenu": {
-        "Category": 0,
+        "Category": 1,
         "TeamId": -1,
         "Cost": 800
       },
