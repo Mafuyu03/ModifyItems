@@ -25,16 +25,6 @@
     "scope_vudu",
     "supp_m110"
   ],
-  "AddGuns": [
-    {
-      "GunName": "webley",
-      "BuyMenu": {
-        "Category": 1,
-        "TeamId": -1,
-        "Cost": 800
-      },
-    }
-  ],
   "UpdateDetails": [
     {
       "GunName": "m9a1",
