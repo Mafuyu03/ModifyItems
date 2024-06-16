@@ -404,6 +404,15 @@
       "KillBonus": 0
     },
     {
+      "GunName": "scope_elcanspecter",
+      "BuyMenu": {
+        "Category": 0,
+        "TeamId": -1,
+        "Cost": 400
+      },
+      "KillBonus": 0
+    },
+    {
       "GunName": "xps3",
       "BuyMenu": {
         "Category": 0,
