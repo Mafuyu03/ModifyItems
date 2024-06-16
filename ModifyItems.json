@@ -25,7 +25,13 @@
     "msmoke_m203",
     "scope_compm4",
     "scope_vudu",
-    "supp_m110"
+    "supp_m110",
+    "supp_m24sws",
+    "supp_sv98",
+    "supp_pbs1",
+    "supp_pbs4",
+    "supp_socom",
+    "supp_sv98"
   ],
   "UpdateDetails": [
     {
