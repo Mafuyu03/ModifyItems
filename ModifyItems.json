@@ -479,6 +479,10 @@
         "Cost": 200
       },
       "KillBonus": 0
+    },
+    {
+      "GunName": "msmoke_gp25",
+      "KillBonus": 0
     }
   ]
 }
