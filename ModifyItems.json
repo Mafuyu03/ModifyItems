@@ -474,12 +474,17 @@
     {
       "GunName": "bayonet_ak47",
       "BuyMenu": {
+        "Category": 0,
+        "TeamId": -1,
       },
       "KillBonus": 0
     },
     {
       "GunName": "msmoke_gp25",
       "BuyMenu": {
+        "Category": 0,
+        "TeamId": -1,
+        "Cost": 600
       },
       "KillBonus": 0
     }
