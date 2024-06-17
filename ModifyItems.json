@@ -476,6 +476,7 @@
       "BuyMenu": {
         "Category": 0,
         "TeamId": -1,
+        "Cost": 200
       },
       "KillBonus": 0
     },
