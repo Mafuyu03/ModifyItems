@@ -27,8 +27,7 @@
     "scope_vudu",
     "supp_m110",
     "supp_m24sws",
-    "supp_sv98",
-    "scope_m150_mountless"
+    "supp_sv98"
   ],
   "UpdateDetails": [
     {
@@ -92,7 +91,7 @@
         "TeamId": -1,
         "Cost": 3000
       },
-      "KillBonus": 100,
+      "KillBonus": 300,
       "BaseDamage": 25,
       "ArmourDamage": 25,
       "ArmourPenetration": 100,
@@ -110,7 +109,7 @@
         "TeamId": -1,
         "Cost": 3000
       },
-      "KillBonus": 100,
+      "KillBonus": 300,
       "BaseDamage": 25,
       "ArmourDamage": 25,
       "ArmourPenetration": 100,
