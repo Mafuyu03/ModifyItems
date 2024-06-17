@@ -27,7 +27,8 @@
     "scope_vudu",
     "supp_m110",
     "supp_m24sws",
-    "supp_sv98"
+    "supp_sv98",
+    "scope_m150_mountless"
   ],
   "UpdateDetails": [
     {
@@ -333,6 +334,15 @@
         "Category": 0,
         "TeamId": -1,
         "Cost": 400
+      },
+      "KillBonus": 0
+    },
+    {
+      "GunName": "scope_m150_mountless",
+      "BuyMenu": {
+        "Category": 0,
+        "TeamId": -1,
+        "Cost": 350
       },
       "KillBonus": 0
     },
