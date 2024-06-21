@@ -98,9 +98,9 @@
       "HelmetDamage": 100,
       "HelmetBleed": 75,
       "GunPenetration": 100,
-      "FalloddModifier": 1,
-      "MinFalloffDist": 500,
-      "MaxFalloffDist": 4000
+      "FalloddModifier": 1.4,
+      "MinFalloffDist": 1500,
+      "MaxFalloffDist": 2000
     },
     {
       "GunName": "mk17_blk",
