@@ -92,15 +92,15 @@
         "Cost": 3000
       },
       "KillBonus": 300,
-      "BaseDamage": 25,
-      "ArmourDamage": 25,
+      "BaseDamage": 30,
+      "ArmourDamage": 30,
       "ArmourPenetration": 100,
       "HelmetDamage": 100,
       "HelmetBleed": 75,
       "GunPenetration": 100,
-      "FalloddModifier": 1.4,
-      "MinFalloffDist": 1500,
-      "MaxFalloffDist": 2000
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
     },
     {
       "GunName": "mk17_blk",
@@ -110,8 +110,8 @@
         "Cost": 3000
       },
       "KillBonus": 300,
-      "BaseDamage": 25,
-      "ArmourDamage": 25,
+      "BaseDamage": 30,
+      "ArmourDamage": 30,
       "ArmourPenetration": 100,
       "HelmetDamage": 100,
       "HelmetBleed": 75,
