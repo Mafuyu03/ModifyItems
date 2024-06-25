@@ -91,7 +91,7 @@
         "TeamId": -1,
         "Cost": 3000
       },
-      "KillBonus": 300,
+      "KillBonus": 100,
       "BaseDamage": 30,
       "ArmourDamage": 30,
       "ArmourPenetration": 100,
@@ -109,7 +109,7 @@
         "TeamId": -1,
         "Cost": 3000
       },
-      "KillBonus": 300,
+      "KillBonus": 100,
       "BaseDamage": 30,
       "ArmourDamage": 30,
       "ArmourPenetration": 100,
