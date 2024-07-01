@@ -29,6 +29,29 @@
     "supp_m24sws",
     "supp_sv98"
   ],
+  "AddGuns": [
+    {
+      "GunName": "m16a3m203_custom",
+      "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269978/M16A3/Gun_M16A3M203.Gun_M16A3M203_C'",
+      "BuyMenu": {
+        "Category": 2,
+        "TeamId": -1,
+        "Cost": 1000,
+        "Image": "/Script/Engine.Texture2D'/UGC3269978/M16A4/icon_m16a4m203.icon_m16a4m203'"
+      },
+      "MagazineCount": 3,
+      "KillBonus": 100,
+      "BaseDamage": 100,
+      "ArmourDamage": 100,
+      "ArmourPenetration": 100,
+      "HelmetDamage": 100,
+      "HelmetBleed": 100,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
+    }
+  ],
   "UpdateDetails": [
     {
       "GunName": "m9a1",
