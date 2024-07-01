@@ -25,10 +25,7 @@
     "mnade_gp25",
     "mnade_m203",
     "scope_compm4",
-    "scope_vudu",
-    "supp_m110",
-    "supp_m24sws",
-    "supp_sv98"
+    "scope_vudu"
   ],
   "AddGuns": [
     {
@@ -119,9 +116,9 @@
       "GunName": "sv98_",
       "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269978/SV98/Gun_SV98.Gun_SV98_C'",
       "BuyMenu": {
-        "Category": 1,
+        "Category": 3,
         "TeamId": -1,
-        "Cost": 1500,
+        "Cost": 1700,
         "Image": "/Script/Engine.Texture2D'/UGC3269978/SV98/icon_sv98.icon_sv98'"
       },
       "MagazineCount": 3,
@@ -152,6 +149,27 @@
       "ArmourPenetration": 100,
       "HelmetDamage": 100,
       "HelmetBleed": 75,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
+    },
+    {
+      "GunName": "svd_",
+      "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269978/M110/Gun_M110.Gun_M110_C'",
+      "BuyMenu": {
+        "Category": 3,
+        "TeamId": -1,
+        "Cost": 2100,
+        "Image": "/Script/Engine.Texture2D'/UGC3269978/M110/icon_m110.icon_m110'"
+      },
+      "MagazineCount": 3,
+      "KillBonus": 300,
+      "BaseDamage": 45,
+      "ArmourDamage": 45,
+      "ArmourPenetration": 100,
+      "HelmetDamage": 100,
+      "HelmetBleed": 100,
       "GunPenetration": 100,
       "FalloddModifier": 1,
       "MinFalloffDist": 500,
@@ -422,6 +440,24 @@
       "BaseDamage": 100,
       "ArmourDamage": 99,
       "ArmourPenetration": 99,
+      "HelmetDamage": 100,
+      "HelmetBleed": 100,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
+    },
+    {
+      "GunName": "svd",
+      "BuyMenu": {
+        "Category": 0,
+        "TeamId": -1,
+        "Cost": 2100
+      },
+      "KillBonus": 300,
+      "BaseDamage": 45,
+      "ArmourDamage": 45,
+      "ArmourPenetration": 100,
       "HelmetDamage": 100,
       "HelmetBleed": 100,
       "GunPenetration": 100,
