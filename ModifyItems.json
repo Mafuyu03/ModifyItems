@@ -22,7 +22,6 @@
     "vss",
     "mnade_gp25",
     "mnade_m203",
-    "msmoke_m203",
     "scope_compm4",
     "scope_vudu",
     "supp_m110",
@@ -505,6 +504,15 @@
     },
     {
       "GunName": "msmoke_gp25",
+      "BuyMenu": {
+        "Category": 0,
+        "TeamId": -1,
+        "Cost": 600
+      },
+      "KillBonus": 0
+    },
+    {
+      "GunName": "msmoke_m203",
       "BuyMenu": {
         "Category": 0,
         "TeamId": -1,
