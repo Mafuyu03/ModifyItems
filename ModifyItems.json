@@ -80,15 +80,25 @@
         "Cost": 1600,
         "Image": "/Script/Engine.Texture2D'/UGC3269978/M110/icon_m110.icon_m110'"
       },
+      "KillBonus": 500,
+      "BaseDamage": 25,
+      "ArmourDamage": 25,
+      "ArmourPenetration": 100,
+      "HelmetDamage": 100,
+      "HelmetBleed": 100,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
     }
   ],
   "UpdateDetails": [
     {
       "GunName": "m110",
       "BuyMenu": {
-        "Category": 0,
+        "Category": 3,
         "TeamId": -1,
-        "Cost": 900
+        "Cost": 1600,
       },
       "KillBonus": 500,
       "BaseDamage": 25,
