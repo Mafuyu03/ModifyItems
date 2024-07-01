@@ -80,17 +80,6 @@
         "Cost": 1600,
         "Image": "/Script/Engine.Texture2D'/UGC3269978/M110/icon_m110.icon_m110'"
       },
-      "MagazineCount": 3,
-      "KillBonus": 500,
-      "BaseDamage": 25,
-      "ArmourDamage": 25,
-      "ArmourPenetration": 100,
-      "HelmetDamage": 100,
-      "HelmetBleed": 100,
-      "GunPenetration": 100,
-      "FalloddModifier": 1,
-      "MinFalloffDist": 500,
-      "MaxFalloffDist": 4000
     }
   ],
   "UpdateDetails": [
@@ -99,14 +88,14 @@
       "BuyMenu": {
         "Category": 0,
         "TeamId": -1,
-        "Cost": 250
+        "Cost": 900
       },
-      "KillBonus": 700,
-      "BaseDamage": 20,
-      "ArmourDamage": 12,
-      "ArmourPenetration": 63,
-      "HelmetDamage": 50,
-      "HelmetBleed": 50,
+      "KillBonus": 500,
+      "BaseDamage": 25,
+      "ArmourDamage": 25,
+      "ArmourPenetration": 100,
+      "HelmetDamage": 100,
+      "HelmetBleed": 100,
       "GunPenetration": 100,
       "FalloddModifier": 1,
       "MinFalloffDist": 500,
