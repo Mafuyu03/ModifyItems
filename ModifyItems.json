@@ -561,24 +561,6 @@
         "Cost": 600
       },
       "KillBonus": 0
-    },
-    {
-      "GunName": "m110_",
-      "BuyMenu": {
-        "Category": 3,
-        "TeamId": -1,
-        "Cost": 1600,
-      },
-      "KillBonus": 500,
-      "BaseDamage": 25,
-      "ArmourDamage": 25,
-      "ArmourPenetration": 100,
-      "HelmetDamage": 100,
-      "HelmetBleed": 100,
-      "GunPenetration": 100,
-      "FalloddModifier": 1,
-      "MinFalloffDist": 500,
-      "MaxFalloffDist": 4000
     }
   ]
 }
