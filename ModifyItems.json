@@ -17,6 +17,7 @@
     "m4a1",
     "m4a1m203",
     "sv98",
+    "m9a1",
     "mp443",
     "m17",
     "svd",
@@ -66,6 +67,27 @@
       "BaseDamage": 25,
       "ArmourDamage": 15,
       "ArmourPenetration": 60,
+      "HelmetDamage": 50,
+      "HelmetBleed": 50,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
+    },
+    {
+      "GunName": "m9a1_",
+      "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269978/M9A1/Gun_M9A1.Gun_M9A1_C'",
+      "BuyMenu": {
+        "Category": 6,
+        "TeamId": -1,
+        "Cost": 300,
+        "Image": "/Script/Engine.Texture2D'/UGC3269978/M9A1/icon_m9a1.icon_m9a1'"
+      },
+      "MagazineCount": 3,
+      "KillBonus": 700,
+      "BaseDamage": 20,
+      "ArmourDamage": 12,
+      "ArmourPenetration": 63,
       "HelmetDamage": 50,
       "HelmetBleed": 50,
       "GunPenetration": 100,
@@ -161,7 +183,7 @@
       "BuyMenu": {
         "Category": 0,
         "TeamId": -1,
-        "Cost": 250
+        "Cost": 300
       },
       "KillBonus": 700,
       "BaseDamage": 20,
