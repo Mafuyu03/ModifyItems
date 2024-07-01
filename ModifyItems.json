@@ -568,7 +568,6 @@
         "Category": 3,
         "TeamId": -1,
         "Cost": 1600,
-        "Image": "/Script/Engine.Texture2D'/UGC3269978/M110/icon_m110.icon_m110'"
       },
       "KillBonus": 500,
       "BaseDamage": 25,
