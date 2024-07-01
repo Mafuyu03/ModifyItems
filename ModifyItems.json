@@ -17,7 +17,6 @@
     "m4a1",
     "m4a1m203",
     "sv98",
-    "m9a1",
     "mp443",
     "m17",
     "svd",
@@ -37,7 +36,7 @@
       "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269978/M17/Gun_M17.Gun_M17_C'",
       "BuyMenu": {
         "Category": 6,
-        "TeamId": 0,
+        "TeamId": -1,
         "Cost": 700,
         "Image": "/Script/Engine.Texture2D'/UGC3269978/M17/icon_m17.icon_m17'"
       },
@@ -58,7 +57,7 @@
       "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269978/MP443/Gun_MP443.Gun_MP443_C'",
       "BuyMenu": {
         "Category": 6,
-        "TeamId": 1,
+        "TeamId": -1,
         "Cost": 700,
         "Image": "/Script/Engine.Texture2D'/UGC3269978/MP443/icon_mp443.icon_mp443'"
       },
@@ -67,27 +66,6 @@
       "BaseDamage": 25,
       "ArmourDamage": 15,
       "ArmourPenetration": 60,
-      "HelmetDamage": 50,
-      "HelmetBleed": 50,
-      "GunPenetration": 100,
-      "FalloddModifier": 1,
-      "MinFalloffDist": 500,
-      "MaxFalloffDist": 4000
-    },
-    {
-      "GunName": "m9a1_",
-      "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269978/M9A1/Gun_M9A1.Gun_M9A1_C'",
-      "BuyMenu": {
-        "Category": 6,
-        "TeamId": -1,
-        "Cost": 300,
-        "Image": "/Script/Engine.Texture2D'/UGC3269978/M9A1/icon_m9a1.icon_m9a1'"
-      },
-      "MagazineCount": 3,
-      "KillBonus": 700,
-      "BaseDamage": 20,
-      "ArmourDamage": 12,
-      "ArmourPenetration": 63,
       "HelmetDamage": 50,
       "HelmetBleed": 50,
       "GunPenetration": 100,
@@ -130,6 +108,27 @@
       "BaseDamage": 85,
       "ArmourDamage": 83,
       "ArmourPenetration": 98,
+      "HelmetDamage": 100,
+      "HelmetBleed": 100,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
+    },
+    {
+      "GunName": "sv98_",
+      "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269978/SV98/Gun_SV98.Gun_SV98_C'",
+      "BuyMenu": {
+        "Category": 1,
+        "TeamId": -1,
+        "Cost": 1500,
+        "Image": "/Script/Engine.Texture2D'/UGC3269978/SV98/icon_sv98.icon_sv98'"
+      },
+      "MagazineCount": 3,
+      "KillBonus": 700,
+      "BaseDamage": 100,
+      "ArmourDamage": 99,
+      "ArmourPenetration": 99,
       "HelmetDamage": 100,
       "HelmetBleed": 100,
       "GunPenetration": 100,
@@ -407,6 +406,24 @@
       "ArmourPenetration": 100,
       "HelmetDamage": 100,
       "HelmetBleed": 75,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
+    },
+    {
+      "GunName": "sv98",
+      "BuyMenu": {
+        "Category": 0,
+        "TeamId": -1,
+        "Cost": 1500
+      },
+      "KillBonus": 700,
+      "BaseDamage": 100,
+      "ArmourDamage": 99,
+      "ArmourPenetration": 99,
+      "HelmetDamage": 100,
+      "HelmetBleed": 100,
       "GunPenetration": 100,
       "FalloddModifier": 1,
       "MinFalloffDist": 500,
