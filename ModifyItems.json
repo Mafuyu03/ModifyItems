@@ -34,7 +34,7 @@
       "GunName": "m16a3m203_custom",
       "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269978/M16A3/Gun_M16A3M203.Gun_M16A3M203_C'",
       "BuyMenu": {
-        "Category": "rifle",
+        "Category": 3,
         "TeamId": -1,
         "Cost": 2500,
         "Image": "/Script/Engine.Texture2D'/UGC3269978/M16A4/icon_m16a4m203.icon_m16a4m203'"
