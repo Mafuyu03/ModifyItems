@@ -99,7 +99,7 @@
       "BuyMenu": {
         "Category": 3,
         "TeamId": -1,
-        "Cost": 1600,
+        "Cost": 1600
       },
       "KillBonus": 500,
       "BaseDamage": 25,
