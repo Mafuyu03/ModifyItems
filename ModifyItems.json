@@ -30,13 +30,13 @@
   ],
   "AddGuns": [
     {
-      "GunName": "m16a3m203_custom",
-      "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269978/M16A3/Gun_M16A3M203.Gun_M16A3M203_C'",
+      "GunName": "m4a1m203_custom",
+      "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269978/M4A1/Gun_M4A1_M203.Gun_M4A1_M203_C'",
       "BuyMenu": {
-        "Category": 2,
+        "Category": 4,
         "TeamId": -1,
-        "Cost": 2500,
-        "Image": "/Script/Engine.Texture2D'/UGC3269978/M16A4/icon_m16a3m203.icon_m16a3m203'"
+        "Cost": 2700,
+        "Image": "/Script/Engine.Texture2D'/UGC3269978/M4A1/icon_m4a1_m203.icon_m4a1_m203'"
       },
       "MagazineCount": 3,
       "KillBonus": 100,
