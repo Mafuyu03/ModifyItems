@@ -35,10 +35,10 @@
       "GunName": "m17_",
       "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269978/M17/Gun_M17.Gun_M17_C'",
       "BuyMenu": {
-        "Category": 4,
+        "Category": 5,
         "TeamId": -1,
         "Cost": 700,
-        "Image": "/Script/Engine.Texture2D'/UGC3269978/M9A1/icon_m9a1.icon_m9a1'"
+        "Image": "/Script/Engine.Texture2D'/UGC3269978/M9A1/icon_m17.icon_m17'"
       },
       "MagazineCount": 3,
       "KillBonus": 700,
@@ -56,7 +56,7 @@
       "GunName": "mp443_",
       "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269978/MP443/Gun_MP443.Gun_MP443_C'",
       "BuyMenu": {
-        "Category": 4,
+        "Category": 5,
         "TeamId": -1,
         "Cost": 700,
         "Image": "/Script/Engine.Texture2D'/UGC3269978/MP443/icon_mp443.icon_mp443'"
