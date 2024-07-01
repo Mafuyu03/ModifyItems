@@ -34,7 +34,7 @@
       "GunName": "mp443_",
       "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269978/MP443/Gun_MP443.Gun_MP443_C'",
       "BuyMenu": {
-        "Category": 6,
+        "Category": 5,
         "TeamId": -1,
         "Cost": 700,
         "Image": "/Script/Engine.Texture2D'/UGC3269978/MP443/icon_mp443.icon_mp443'"
