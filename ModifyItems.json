@@ -156,12 +156,12 @@
     },
     {
       "GunName": "svd_",
-      "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269978/M110/Gun_M110.Gun_M110_C'",
+      "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269978/SVD/Gun_SVD.Gun_SVD_C'",
       "BuyMenu": {
         "Category": 3,
         "TeamId": -1,
         "Cost": 2100,
-        "Image": "/Script/Engine.Texture2D'/UGC3269978/M110/icon_m110.icon_m110'"
+        "Image": "/Script/Engine.Texture2D'/UGC3269978/SVD/icon_svd.icon_svd'"
       },
       "MagazineCount": 3,
       "KillBonus": 300,
