@@ -31,10 +31,31 @@
   ],
   "AddGuns": [
     {
+      "GunName": "m17_",
+      "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269978/M17/Gun_M17.Gun_M17_C'",
+      "BuyMenu": {
+        "Category": 4,
+        "TeamId": -1,
+        "Cost": 700,
+        "Image": "/Script/Engine.Texture2D'/UGC3269978/M9A1/icon_m17.icon_m17'",
+      },
+      "MagazineCount": 3,
+      "KillBonus": 700,
+      "BaseDamage": 25,
+      "ArmourDamage": 15,
+      "ArmourPenetration": 60,
+      "HelmetDamage": 50,
+      "HelmetBleed": 50,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
+    },
+    {
       "GunName": "mp443_",
       "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269978/MP443/Gun_MP443.Gun_MP443_C'",
       "BuyMenu": {
-        "Category": 3,
+        "Category": 4,
         "TeamId": -1,
         "Cost": 700,
         "Image": "/Script/Engine.Texture2D'/UGC3269978/MP443/icon_mp443.icon_mp443'"
@@ -160,8 +181,8 @@
         "Cost": 250
       },
       "KillBonus": 700,
-      "BaseDamage": 20,
-      "ArmourDamage": 12,
+      "BaseDamage": 25,
+      "ArmourDamage": 15,
       "ArmourPenetration": 60,
       "HelmetDamage": 50,
       "HelmetBleed": 50,
