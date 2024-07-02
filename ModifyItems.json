@@ -227,7 +227,7 @@
       "GunName": "svd_",
       "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269978/SVD/Gun_SVD.Gun_SVD_C'",
       "BuyMenu": {
-        "Category": 3,
+        "Category": 1,
         "TeamId": -1,
         "Cost": 2100,
         "Image": "/Script/Engine.Texture2D'/UGC3269978/SVD/icon_svd.icon_svd'"
