@@ -35,13 +35,13 @@
   ],
   "AddGuns": [
     {
-      "GunName": "mk17_",
-      "GunClass": "/UGC3936882/Gun_MK17_Short.Gun_MK17_Short_C",
+      "GunName": "mk17_blk_",
+      "GunClass": "/UGC3936882/Gun_MK17_Short_BLK.Gun_MK17_Short_BLK_C",
       "BuyMenu": {
         "Category": 1,
         "TeamId": -1,
         "Cost": 2400,
-        "Image": "/UGC3936882/MK17/mk17_short.mk17_short"
+        "Image": "/UGC3936882/MK17/T_MK17_Icon.T_MK17_Icon"
       },
       "MagazineCount": 3,
       "KillBonus": 300,
