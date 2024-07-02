@@ -43,6 +43,7 @@
         "Cost": 2400,
         "Image": "/Script/Engine.Texture2D'UGC3936882/MK17/T_MK17_Icon.T_MK17_Icon'"
       },
+      "MagazineCount": 3,
       "KillBonus": 300,
       "BaseDamage": 25,
       "ArmourDamage": 25,
