@@ -35,13 +35,13 @@
   ],
   "AddGuns": [
     {
-      "GunName": "mk17_blk_",
-      "GunClass": "/UGC3936882/Gun_MK17_Short_BLK.Gun_MK17_Short_BLK_C",
+      "GunName": "mk17_blk",
+      "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3936882/Gun_MK17_Short_BLK.Gun_MK17_Short_BLK_C'",
       "BuyMenu": {
         "Category": 1,
         "TeamId": -1,
         "Cost": 2400,
-        "Image": "/UGC3936882/MK17/T_MK17_Icon.T_MK17_Icon"
+        "Image": "/Script/Engine.Texture2D'/UGC3936882/MK17/T_MK17_Icon.T_MK17_Icon'"
       },
       "MagazineCount": 3,
       "KillBonus": 300,
@@ -185,9 +185,9 @@
       "GunName": "sv98_",
       "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269978/SV98/Gun_SV98.Gun_SV98_C'",
       "BuyMenu": {
-        "Category": 3,
+        "Category": 1,
         "TeamId": -1,
-        "Cost": 1700,
+        "Cost": 1500,
         "Image": "/Script/Engine.Texture2D'/UGC3269978/SV98/icon_sv98.icon_sv98'"
       },
       "MagazineCount": 3,
