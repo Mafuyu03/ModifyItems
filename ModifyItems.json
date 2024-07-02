@@ -94,16 +94,16 @@
       "MaxFalloffDist": 4000
     },
     {
-      "GunName": "m4a1m203_",
-      "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269978/M4A1/Gun_M4A1_M203.Gun_M4A1_M203_C'",
+      "GunName": "m16a4m203_",
+      "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269978/M16A4/Gun_M16A4M203.Gun_M16A4M203_C'",
       "BuyMenu": {
         "Category": 3,
         "TeamId": -1,
-        "Cost": 2700,
-        "Image": "/Script/Engine.Texture2D'/UGC3269978/M4A1/icon_m4a1_m203.icon_m4a1_m203'"
+        "Cost": 1900,
+        "Image": "/Script/Engine.Texture2D'/UGC3269978/M16A4/icon_m16a4m203.icon_m16a4m203'"
       },
       "MagazineCount": 3,
-      "KillBonus": 100,
+      "KillBonus": 300,
       "BaseDamage": 20,
       "ArmourDamage": 20,
       "ArmourPenetration": 100,
@@ -465,6 +465,24 @@
       "ArmourPenetration": 100,
       "HelmetDamage": 100,
       "HelmetBleed": 100,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
+    },
+    {
+      "GunName": "m16a4m203",
+      "BuyMenu": {
+        "Category": 0,
+        "TeamId": -1,
+        "Cost": 1900
+      },
+      "KillBonus": 100,
+      "BaseDamage": 20,
+      "ArmourDamage": 20,
+      "ArmourPenetration": 100,
+      "HelmetDamage": 100,
+      "HelmetBleed": 75,
       "GunPenetration": 100,
       "FalloddModifier": 1,
       "MinFalloffDist": 500,
