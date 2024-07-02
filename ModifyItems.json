@@ -34,12 +34,12 @@
   "AddGuns": [
     {
       "GunName": "glock19_",
-      "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3992329/Glock19/Gun_Glock19.Gun_Glock19_C'",
+      "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3272975/Glock19/Gun_Glock19.Gun_Glock19_C'",
       "BuyMenu": {
         "Category": 6,
         "TeamId": -1,
         "Cost": 600,
-        "Image": "/Script/Engine.Texture2D'/UGC3269978/Glock19/glockpng.glockpng'"
+        "Image": "/Script/Engine.Texture2D'/UGC3272975/Glock19/glockpng.glockpng'"
       },
       "MagazineCount": 3,
       "KillBonus": 700,
