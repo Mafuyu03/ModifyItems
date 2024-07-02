@@ -523,7 +523,7 @@
         "TeamId": -1,
         "Cost": 1900
       },
-      "KillBonus": 100,
+      "KillBonus": 300,
       "BaseDamage": 20,
       "ArmourDamage": 20,
       "ArmourPenetration": 100,
