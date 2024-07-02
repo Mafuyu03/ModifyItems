@@ -38,7 +38,7 @@
       "GunName": "mk17_blk_",
       "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3936882/Gun_MK17_Short_BLK.Gun_MK17_Short_BLK_C'",
       "BuyMenu": {
-        "Category": 1,
+        "Category": 3,
         "TeamId": -1,
         "Cost": 2400,
         "Image": "/Script/Engine.Texture2D'/UGC3936882/MK17/T_MK17_Icon.T_MK17_Icon'"
