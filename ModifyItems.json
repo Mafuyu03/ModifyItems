@@ -31,25 +31,25 @@
   ],
   "AddGuns": [
     {
-      "GunName": "shield_",
-      "GunClass": "/Script/Engine.BlueprintGeneratedClass'/BallisticShield/Item_BallisticsShield.Item_BallisticsShield_C'",
+      "GunName": "glock19_",
+      "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3992329/Glock19/glock19_gen5.glock19_gen5_C'",
       "BuyMenu": {
-        "Category": 2,
+        "Category": 6,
         "TeamId": -1,
-        "Cost": 1400,
-        "Image": "/Script/Engine.Texture2D'/ballisticsshield.ballisticsshield'"
+        "Cost": 600,
+        "Image": "/Script/Engine.Texture2D'/UGC3269978/Glock19/glockpng.glockpng'"
       },
       "MagazineCount": 3,
-      "KillBonus": 500,
-      "BaseDamage": 20,
-      "ArmourDamage": 11,
-      "ArmourPenetration": 56,
+      "KillBonus": 700,
+      "BaseDamage": 25,
+      "ArmourDamage": 12,
+      "ArmourPenetration": 50,
       "HelmetDamage": 50,
-      "HelmetBleed": 55,
+      "HelmetBleed": 50,
       "GunPenetration": 100,
       "FalloddModifier": 1,
-      "MinFalloffDist": 1000,
-      "MaxFalloffDist": 1250
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
     },
     {
       "GunName": "mp7_",
