@@ -698,6 +698,33 @@
         "Cost": 600
       },
       "KillBonus": 0
+    },
+    {
+      "GunName": "supp_sv98",
+      "BuyMenu": {
+        "Category": 0,
+        "TeamId": -1,
+        "Cost": 500
+      },
+      "KillBonus": 0
+    },
+    {
+      "GunName": "supp_m110",
+      "BuyMenu": {
+        "Category": 0,
+        "TeamId": -1,
+        "Cost": 500
+      },
+      "KillBonus": 0
+    },
+    {
+      "GunName": "supp_m24sws",
+      "BuyMenu": {
+        "Category": 0,
+        "TeamId": -1,
+        "Cost": 500
+      },
+      "KillBonus": 0
     }
   ]
 }
