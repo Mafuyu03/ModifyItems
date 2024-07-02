@@ -32,12 +32,12 @@
   "AddGuns": [
     {
       "GunName": "shield_",
-      "GunClass": "/Script/Engine.BlueprintGeneratedClass'/Items/TTTv2/BallisticShield/Item_BallisticsShield.Item_BallisticsShield_C'",
+      "GunClass": "/Content/Items/TTTv2/BallisticShield/Item_BallisticsShield.Item_BallisticsShield_C",
       "BuyMenu": {
         "Category": 2,
         "TeamId": -1,
         "Cost": 1400,
-        "Image": "/Script/Engine.Texture2D'/UIResources/BuyMenu/img/icons/ballisticsshield.ballisticsshield'"
+        "Image": "/Content/UIResources/BuyMenu/img/icons/ballisticsshield.ballisticsshield"
       },
       "MagazineCount": 3,
       "KillBonus": 500,
