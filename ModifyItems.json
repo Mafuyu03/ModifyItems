@@ -34,7 +34,7 @@
   "AddGuns": [
     {
       "GunName": "glock19_",
-      "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3992329/Glock19/glock19_gen5.glock19_gen5_C'",
+      "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3992329/Glock19/Gun_Glock19.Gun_Glock19_C'",
       "BuyMenu": {
         "Category": 6,
         "TeamId": -1,
