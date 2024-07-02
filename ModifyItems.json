@@ -336,12 +336,12 @@
       "BuyMenu": {
         "Category": 0,
         "TeamId": -1,
-        "Cost": 700
+        "Cost": 600
       },
       "KillBonus": 700,
       "BaseDamage": 25,
-      "ArmourDamage": 15,
-      "ArmourPenetration": 60,
+      "ArmourDamage": 12,
+      "ArmourPenetration": 50,
       "HelmetDamage": 50,
       "HelmetBleed": 50,
       "GunPenetration": 100,
@@ -354,12 +354,12 @@
       "BuyMenu": {
         "Category": 0,
         "TeamId": -1,
-        "Cost": 700
+        "Cost": 600
       },
       "KillBonus": 700,
       "BaseDamage": 25,
-      "ArmourDamage": 15,
-      "ArmourPenetration": 60,
+      "ArmourDamage": 12,
+      "ArmourPenetration": 50,
       "HelmetDamage": 50,
       "HelmetBleed": 50,
       "GunPenetration": 100,
@@ -506,6 +506,24 @@
       "ArmourPenetration": 100,
       "HelmetDamage": 100,
       "HelmetBleed": 75,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
+    },
+    {
+      "GunName": "m24sws",
+      "BuyMenu": {
+        "Category": 0,
+        "TeamId": -1,
+        "Cost": 900
+      },
+      "KillBonus": 700,
+      "BaseDamage": 85,
+      "ArmourDamage": 83,
+      "ArmourPenetration": 98,
+      "HelmetDamage": 100,
+      "HelmetBleed": 100,
       "GunPenetration": 100,
       "FalloddModifier": 1,
       "MinFalloffDist": 500,
