@@ -248,12 +248,12 @@
   "AddItems": [
     {
       "ItemName": "supp_socom_",
-      "ItemClass": "/UGC3269978/Suppressor_SOCOM/Suppressor_SOCOM.Suppressor_SOCOM_C",
+      "ItemClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269978/Suppressor_SOCOM/Suppressor_SOCOM.Suppressor_SOCOM_C'",
       "BuyMenu": {
         "Category": 5,
         "TeamId": -1,
         "Cost": 300,
-        "Image": "/UGC3269978/Suppressor_SOCOM/icon_supp_socom.icon_supp_socom"
+        "Image": "/Script/Engine.Texture2D'/UGC3269978/Suppressor_SOCOM/icon_supp_socom.icon_supp_socom'"
       }
     }
   ],
