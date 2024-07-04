@@ -245,6 +245,18 @@
       "MaxFalloffDist": 4000
     }
   ],
+  "AddItems": [
+    {
+      "ItemName": "supp_socom_",
+      "ItemClass": "/UGC3269978/Suppressor_SOCOM/Suppressor_SOCOM.Suppressor_SOCOM_C",
+      "BuyMenu": {
+        "Category": 5,
+        "TeamId": -1,
+        "Cost": 300,
+        "Image": "/UGC3269978/Suppressor_SOCOM/icon_supp_socom.icon_supp_socom"
+      }
+    }
+  ],
   "UpdateDetails": [
     {
       "GunName": "m110",
@@ -755,7 +767,7 @@
       "BuyMenu": {
         "Category": 0,
         "TeamId": -1,
-        "Cost": 500
+        "Cost": 300
       },
       "KillBonus": 0
     },
