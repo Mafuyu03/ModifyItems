@@ -247,6 +247,24 @@
   ],
   "UpdateDetails": [
     {
+      "GunName": "webley_clone",
+      "BuyMenu": {
+        "Category": 0,
+        "TeamId": -1,
+        "Cost": 600
+      },
+      "KillBonus": 500,
+      "BaseDamage": 35,
+      "ArmourDamage": 35,
+      "ArmourPenetration": 100,
+      "HelmetDamage": 100,
+      "HelmetBleed": 100,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
+    },
+    {
       "GunName": "m110",
       "BuyMenu": {
         "Category": 0,
