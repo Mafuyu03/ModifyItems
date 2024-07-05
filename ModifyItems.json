@@ -34,6 +34,8 @@
     "scope_vudu",
     "supp_socom",
     "supp_sv98",
+    "supp_m110",
+    "supp_m24sws"
   ],
   "AddGuns": [
     {
