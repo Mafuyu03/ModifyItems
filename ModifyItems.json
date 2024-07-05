@@ -29,6 +29,7 @@
     "mk17",
     "mk17_blk",
     "supp_socom",
+    "supp_sv98",
     "mnade_gp25",
     "mnade_m203",
     "scope_compm4",
@@ -253,6 +254,27 @@
         "TeamId": -1,
         "Cost": 300,
         "Image": "/Script/Engine.Texture2D'/UGC3269978/Suppressor_SOCOM/icon_supp_socom.icon_supp_socom'"
+      },
+      "MagazineCount": 0,
+      "KillBonus": 0,
+      "BaseDamage": 0,
+      "ArmourDamage": 0,
+      "ArmourPenetration": 0,
+      "HelmetDamage": 0,
+      "HelmetBleed": 0,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
+    },
+    {
+      "GunName": "supp_sv98_",
+      "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269978//Suppressor_SV98/Suppressor_SV98.Suppressor_SV98_C'",
+      "BuyMenu": {
+        "Category": 5,
+        "TeamId": -1,
+        "Cost": 300,
+        "Image": "/Script/Engine.Texture2D'/UGC3269978/Suppressor_SV98/icon_supp_sv98.icon_supp_sv98'"
       },
       "MagazineCount": 0,
       "KillBonus": 0,
@@ -822,9 +844,18 @@
       "BuyMenu": {
         "Category": 0,
         "TeamId": -1,
-        "Cost": 500
+        "Cost": 300
       },
-      "KillBonus": 0
+      "KillBonus": 0,
+      "BaseDamage": 0,
+      "ArmourDamage": 0,
+      "ArmourPenetration": 0,
+      "HelmetDamage": 0,
+      "HelmetBleed": 0,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
     },
     {
       "GunName": "supp_m110",
@@ -833,7 +864,16 @@
         "TeamId": -1,
         "Cost": 500
       },
-      "KillBonus": 0
+      "KillBonus": 0,
+      "BaseDamage": 0,
+      "ArmourDamage": 0,
+      "ArmourPenetration": 0,
+      "HelmetDamage": 0,
+      "HelmetBleed": 0,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
     },
     {
       "GunName": "supp_m24sws",
@@ -842,7 +882,16 @@
         "TeamId": -1,
         "Cost": 500
       },
-      "KillBonus": 0
+      "KillBonus": 0,
+      "BaseDamage": 0,
+      "ArmourDamage": 0,
+      "ArmourPenetration": 0,
+      "HelmetDamage": 0,
+      "HelmetBleed": 0,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
     }
   ]
 }
