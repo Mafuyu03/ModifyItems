@@ -779,7 +779,16 @@
         "TeamId": -1,
         "Cost": 300
       },
-      "KillBonus": 0
+      "KillBonus": 0,
+      "BaseDamage": 0,
+      "ArmourDamage": 0,
+      "ArmourPenetration": 0,
+      "HelmetDamage": 0,
+      "HelmetBleed": 0,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
     },
     {
       "GunName": "bayonet_ak47",
