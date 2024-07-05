@@ -40,7 +40,17 @@
     "supp_pbs4",
     "grip_vg_kac",
     "grip_vg_mod3",
-    "bayonet_ak47"
+    "bayonet_ak47",
+    "scope_1p69",
+    "scope_1p69_alt",
+    "scope_m150",
+    "scope_m150_mountless",
+    "scope_m145",
+    "scope_leupoldmk4",
+    "scope_okp7",
+    "scope_pk06",
+    "scope_pkas",
+    "scope_pso1"
   ],
   "AddGuns": [
     {
@@ -441,6 +451,216 @@
       "FalloddModifier": 1,
       "MinFalloffDist": 500,
       "MaxFalloffDist": 4000
+    },
+    {
+      "GunName": "scope_1p69_",
+      "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269978/Scope_1P69/Scope_1P69.Scope_1P69_C'",
+      "BuyMenu": {
+        "Category": 5,
+        "TeamId": -1,
+        "Cost": 200,
+        "Image": "/Script/Engine.Texture2D'/UGC3269978/Scope_1P69/icon_1p69.icon_1p69'"
+      },
+      "MagazineCount": 0,
+      "KillBonus": 0,
+      "BaseDamage": 0,
+      "ArmourDamage": 0,
+      "ArmourPenetration": 0,
+      "HelmetDamage": 0,
+      "HelmetBleed": 0,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
+    },
+    {
+      "GunName": "scope_1p69_alt_",
+      "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269978/Scope_1P69/Scope_1P69_ALT.Scope_1P69_ALT_C'",
+      "BuyMenu": {
+        "Category": 5,
+        "TeamId": -1,
+        "Cost": 200,
+        "Image": "/Script/Engine.Texture2D'/UGC3269978/Scope_1P69/icon_1p69_alt.icon_1p69_alt'"
+      },
+      "MagazineCount": 0,
+      "KillBonus": 0,
+      "BaseDamage": 0,
+      "ArmourDamage": 0,
+      "ArmourPenetration": 0,
+      "HelmetDamage": 0,
+      "HelmetBleed": 0,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
+    },
+    {
+      "GunName": "scope_m150_",
+      "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269978/Scope_M150/Scope_M150_V2.Scope_M150_V2_C'",
+      "BuyMenu": {
+        "Category": 5,
+        "TeamId": -1,
+        "Cost": 300,
+        "Image": "/Script/Engine.Texture2D'/UGC3269978/Scope_M150/icon_m150.icon_m150'"
+      },
+      "MagazineCount": 0,
+      "KillBonus": 0,
+      "BaseDamage": 0,
+      "ArmourDamage": 0,
+      "ArmourPenetration": 0,
+      "HelmetDamage": 0,
+      "HelmetBleed": 0,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
+    },
+    {
+      "GunName": "scope_m150_mountless_",
+      "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269978/Scope_M150/Scope_M150_V2_Mountless.Scope_M150_V2_Mountless_C'",
+      "BuyMenu": {
+        "Category": 5,
+        "TeamId": -1,
+        "Cost": 200,
+        "Image": "/Script/Engine.Texture2D'/UGC3269978/Scope_M150/icon_m150_mtls.icon_m150_mtls'"
+      },
+      "MagazineCount": 0,
+      "KillBonus": 0,
+      "BaseDamage": 0,
+      "ArmourDamage": 0,
+      "ArmourPenetration": 0,
+      "HelmetDamage": 0,
+      "HelmetBleed": 0,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
+    },
+    {
+      "GunName": "scope_m145_",
+      "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269978/Scope_M145/Scope_M145.Scope_M145_C'",
+      "BuyMenu": {
+        "Category": 5,
+        "TeamId": -1,
+        "Cost": 300,
+        "Image": "/Script/Engine.Texture2D'/UGC3269978/Scope_M145/icon_m145.icon_m145'"
+      },
+      "MagazineCount": 0,
+      "KillBonus": 0,
+      "BaseDamage": 0,
+      "ArmourDamage": 0,
+      "ArmourPenetration": 0,
+      "HelmetDamage": 0,
+      "HelmetBleed": 0,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
+    },
+    {
+      "GunName": "scope_leupoldmk4_",
+      "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269978/Scope_LeupoldMk4/Scope_LeupoldMk4.Scope_LeupoldMk4_C'",
+      "BuyMenu": {
+        "Category": 5,
+        "TeamId": -1,
+        "Cost": 200,
+        "Image": "/Script/Engine.Texture2D'/UGC3269978/Scope_LeupoldMk4/icon_leupoldmk4.icon_leupoldmk4'"
+      },
+      "MagazineCount": 0,
+      "KillBonus": 0,
+      "BaseDamage": 0,
+      "ArmourDamage": 0,
+      "ArmourPenetration": 0,
+      "HelmetDamage": 0,
+      "HelmetBleed": 0,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
+    },
+    {
+      "GunName": "scope_okp7_",
+      "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269978/Scope_OKP7/Scope_OKP7.Scope_OKP7_C'",
+      "BuyMenu": {
+        "Category": 5,
+        "TeamId": -1,
+        "Cost": 500,
+        "Image": "/Script/Engine.Texture2D'/UGC3269978/Scope_OKP7/icon_okp7.icon_okp7'"
+      },
+      "MagazineCount": 0,
+      "KillBonus": 0,
+      "BaseDamage": 0,
+      "ArmourDamage": 0,
+      "ArmourPenetration": 0,
+      "HelmetDamage": 0,
+      "HelmetBleed": 0,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
+    },
+    {
+      "GunName": "scope_pk06_",
+      "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269978/Scope_PK06/Scope_PK06.Scope_PK06_C'",
+      "BuyMenu": {
+        "Category": 5,
+        "TeamId": -1,
+        "Cost": 500,
+        "Image": "/Script/Engine.Texture2D'/UGC3269978/Scope_PK06/icon_pk06.icon_pk06'"
+      },
+      "MagazineCount": 0,
+      "KillBonus": 0,
+      "BaseDamage": 0,
+      "ArmourDamage": 0,
+      "ArmourPenetration": 0,
+      "HelmetDamage": 0,
+      "HelmetBleed": 0,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
+    },
+    {
+      "GunName": "scope_pkas_",
+      "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269978/Scope_PKA-S/Scope_PKA-S.Scope_PKA-S_C'",
+      "BuyMenu": {
+        "Category": 5,
+        "TeamId": -1,
+        "Cost": 500,
+        "Image": "/Script/Engine.Texture2D'/UGC3269978/Scope_PKA-S/icon_pkas.icon_pkas'"
+      },
+      "MagazineCount": 0,
+      "KillBonus": 0,
+      "BaseDamage": 0,
+      "ArmourDamage": 0,
+      "ArmourPenetration": 0,
+      "HelmetDamage": 0,
+      "HelmetBleed": 0,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
+    },
+    {
+      "GunName": "scope_pso1_",
+      "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269978/Scope_PSO1/Scope_PSO1.Scope_PSO1_C'",
+      "BuyMenu": {
+        "Category": 5,
+        "TeamId": -1,
+        "Cost": 300,
+        "Image": "/Script/Engine.Texture2D'/UGC3269978/Scope_PSO1/icon_pso1.icon_pso1'"
+      },
+      "MagazineCount": 0,
+      "KillBonus": 0,
+      "BaseDamage": 0,
+      "ArmourDamage": 0,
+      "ArmourPenetration": 0,
+      "HelmetDamage": 0,
+      "HelmetBleed": 0,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
     }
   ],
   "UpdateDetails": [
@@ -760,24 +980,6 @@
       "KillBonus": 0
     },
     {
-      "GunName": "scope_1p69",
-      "BuyMenu": {
-        "Category": 0,
-        "TeamId": -1,
-        "Cost": 500
-      },
-      "KillBonus": 0
-    },
-    {
-      "GunName": "scope_1p69_alt",
-      "BuyMenu": {
-        "Category": 0,
-        "TeamId": -1,
-        "Cost": 500
-      },
-      "KillBonus": 0
-    },
-    {
       "GunName": "scope_1p78",
       "BuyMenu": {
         "Category": 0,
@@ -792,42 +994,6 @@
         "Category": 0,
         "TeamId": -1,
         "Cost": 400
-      },
-      "KillBonus": 0
-    },
-    {
-      "GunName": "scope_leupoldmk4",
-      "BuyMenu": {
-        "Category": 0,
-        "TeamId": -1,
-        "Cost": 400
-      },
-      "KillBonus": 0
-    },
-    {
-      "GunName": "scope_m145",
-      "BuyMenu": {
-        "Category": 0,
-        "TeamId": -1,
-        "Cost": 400
-      },
-      "KillBonus": 0
-    },
-    {
-      "GunName": "scope_m150",
-      "BuyMenu": {
-        "Category": 0,
-        "TeamId": -1,
-        "Cost": 400
-      },
-      "KillBonus": 0
-    },
-    {
-      "GunName": "scope_m150_mountless",
-      "BuyMenu": {
-        "Category": 0,
-        "TeamId": -1,
-        "Cost": 350
       },
       "KillBonus": 0
     },
@@ -850,43 +1016,7 @@
       "KillBonus": 0
     },
     {
-      "GunName": "scope_okp7",
-      "BuyMenu": {
-        "Category": 0,
-        "TeamId": -1,
-        "Cost": 400
-      },
-      "KillBonus": 0
-    },
-    {
-      "GunName": "scope_pk06",
-      "BuyMenu": {
-        "Category": 0,
-        "TeamId": -1,
-        "Cost": 400
-      },
-      "KillBonus": 0
-    },
-    {
       "GunName": "scope_pka",
-      "BuyMenu": {
-        "Category": 0,
-        "TeamId": -1,
-        "Cost": 400
-      },
-      "KillBonus": 0
-    },
-    {
-      "GunName": "scope_pkas",
-      "BuyMenu": {
-        "Category": 0,
-        "TeamId": -1,
-        "Cost": 400
-      },
-      "KillBonus": 0
-    },
-    {
-      "GunName": "scope_pso1",
       "BuyMenu": {
         "Category": 0,
         "TeamId": -1,
@@ -1080,6 +1210,186 @@
         "Category": 0,
         "TeamId": -1,
         "Cost": 100
+      },
+      "KillBonus": 0,
+      "BaseDamage": 0,
+      "ArmourDamage": 0,
+      "ArmourPenetration": 0,
+      "HelmetDamage": 0,
+      "HelmetBleed": 0,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
+    },
+    {
+      "GunName": "scope_1p69",
+      "BuyMenu": {
+        "Category": 0,
+        "TeamId": -1,
+        "Cost": 200
+      },
+      "KillBonus": 0,
+      "BaseDamage": 0,
+      "ArmourDamage": 0,
+      "ArmourPenetration": 0,
+      "HelmetDamage": 0,
+      "HelmetBleed": 0,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
+    },
+    {
+      "GunName": "scope_1p69_alt",
+      "BuyMenu": {
+        "Category": 0,
+        "TeamId": -1,
+        "Cost": 200
+      },
+      "KillBonus": 0,
+      "BaseDamage": 0,
+      "ArmourDamage": 0,
+      "ArmourPenetration": 0,
+      "HelmetDamage": 0,
+      "HelmetBleed": 0,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
+    },
+    {
+      "GunName": "scope_m150",
+      "BuyMenu": {
+        "Category": 0,
+        "TeamId": -1,
+        "Cost": 300
+      },
+      "KillBonus": 0,
+      "BaseDamage": 0,
+      "ArmourDamage": 0,
+      "ArmourPenetration": 0,
+      "HelmetDamage": 0,
+      "HelmetBleed": 0,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
+    },
+    {
+      "GunName": "scope_m150_mountless",
+      "BuyMenu": {
+        "Category": 0,
+        "TeamId": -1,
+        "Cost": 200
+      },
+      "KillBonus": 0,
+      "BaseDamage": 0,
+      "ArmourDamage": 0,
+      "ArmourPenetration": 0,
+      "HelmetDamage": 0,
+      "HelmetBleed": 0,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
+    },
+    {
+      "GunName": "scope_m145",
+      "BuyMenu": {
+        "Category": 0,
+        "TeamId": -1,
+        "Cost": 300
+      },
+      "KillBonus": 0,
+      "BaseDamage": 0,
+      "ArmourDamage": 0,
+      "ArmourPenetration": 0,
+      "HelmetDamage": 0,
+      "HelmetBleed": 0,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
+    },
+    {
+      "GunName": "scope_leupoldmk4",
+      "BuyMenu": {
+        "Category": 0,
+        "TeamId": -1,
+        "Cost": 200
+      },
+      "KillBonus": 0,
+      "BaseDamage": 0,
+      "ArmourDamage": 0,
+      "ArmourPenetration": 0,
+      "HelmetDamage": 0,
+      "HelmetBleed": 0,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
+    },
+    {
+      "GunName": "scope_okp7",
+      "BuyMenu": {
+        "Category": 0,
+        "TeamId": -1,
+        "Cost": 500
+      },
+      "KillBonus": 0,
+      "BaseDamage": 0,
+      "ArmourDamage": 0,
+      "ArmourPenetration": 0,
+      "HelmetDamage": 0,
+      "HelmetBleed": 0,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
+    },
+    {
+      "GunName": "scope_pk06",
+      "BuyMenu": {
+        "Category": 0,
+        "TeamId": -1,
+        "Cost": 500
+      },
+      "KillBonus": 0,
+      "BaseDamage": 0,
+      "ArmourDamage": 0,
+      "ArmourPenetration": 0,
+      "HelmetDamage": 0,
+      "HelmetBleed": 0,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
+    },
+    {
+      "GunName": "scope_pkas",
+      "BuyMenu": {
+        "Category": 0,
+        "TeamId": -1,
+        "Cost": 500
+      },
+      "KillBonus": 0,
+      "BaseDamage": 0,
+      "ArmourDamage": 0,
+      "ArmourPenetration": 0,
+      "HelmetDamage": 0,
+      "HelmetBleed": 0,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
+    },
+    {
+      "GunName": "scope_pso1",
+      "BuyMenu": {
+        "Category": 0,
+        "TeamId": -1,
+        "Cost": 300
       },
       "KillBonus": 0,
       "BaseDamage": 0,
