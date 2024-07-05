@@ -28,12 +28,12 @@
     "glock19_army",
     "mk17",
     "mk17_blk",
-    "supp_socom",
-    "supp_sv98",
     "mnade_gp25",
     "mnade_m203",
     "scope_compm4",
-    "scope_vudu"
+    "scope_vudu",
+    "supp_socom",
+    "supp_sv98",
   ],
   "AddGuns": [
     {
