@@ -865,15 +865,6 @@
       "KillBonus": 0
     },
     {
-      "GunName": "supp_pbs4",
-      "BuyMenu": {
-        "Category": 0,
-        "TeamId": -1,
-        "Cost": 500
-      },
-      "KillBonus": 0
-    },
-    {
       "GunName": "bayonet_ak47",
       "BuyMenu": {
         "Category": 0,
