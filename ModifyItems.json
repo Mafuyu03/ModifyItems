@@ -384,7 +384,7 @@
       "BuyMenu": {
         "Category": 5,
         "TeamId": -1,
-        "Cost": 300,
+        "Cost": 200,
         "Image": "/Script/Engine.Texture2D'/UGC3269978/Grip_VG_KAC/icon_vg_kac.icon_vg_kac'"
       },
       "MagazineCount": 0,
@@ -405,7 +405,7 @@
       "BuyMenu": {
         "Category": 5,
         "TeamId": -1,
-        "Cost": 300,
+        "Cost": 200,
         "Image": "/Script/Engine.Texture2D'/UGC3269978/Grip_VG_MOD3/icon_vg_mod3.icon_vg_mod3'"
       },
       "MagazineCount": 0,
