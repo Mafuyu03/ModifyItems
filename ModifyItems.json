@@ -39,7 +39,8 @@
     "supp_pbs1",
     "supp_pbs4",
     "grip_vg_kac",
-    "grip_vg_mod3"
+    "grip_vg_mod3",
+    "bayonet_ak47"
   ],
   "AddGuns": [
     {
@@ -407,6 +408,27 @@
         "TeamId": -1,
         "Cost": 200,
         "Image": "/Script/Engine.Texture2D'/UGC3269978/Grip_VG_MOD3/icon_vg_mod3.icon_vg_mod3'"
+      },
+      "MagazineCount": 0,
+      "KillBonus": 0,
+      "BaseDamage": 0,
+      "ArmourDamage": 0,
+      "ArmourPenetration": 0,
+      "HelmetDamage": 0,
+      "HelmetBleed": 0,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
+    },
+    {
+      "GunName": "bayonet_ak47_",
+      "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269978/Bayonet_AK47/Bayonet_AK47.Bayonet_AK47_C'",
+      "BuyMenu": {
+        "Category": 5,
+        "TeamId": -1,
+        "Cost": 100,
+        "Image": "/Script/Engine.Texture2D'/UGC3269978/Bayonet_AK47/icon_bayonet_ak47.icon_bayonet_ak47'"
       },
       "MagazineCount": 0,
       "KillBonus": 0,
@@ -891,15 +913,6 @@
       "KillBonus": 0
     },
     {
-      "GunName": "bayonet_ak47",
-      "BuyMenu": {
-        "Category": 0,
-        "TeamId": -1,
-        "Cost": 200
-      },
-      "KillBonus": 0
-    },
-    {
       "GunName": "msmoke_gp25",
       "BuyMenu": {
         "Category": 0,
@@ -1049,6 +1062,24 @@
         "Category": 0,
         "TeamId": -1,
         "Cost": 200
+      },
+      "KillBonus": 0,
+      "BaseDamage": 0,
+      "ArmourDamage": 0,
+      "ArmourPenetration": 0,
+      "HelmetDamage": 0,
+      "HelmetBleed": 0,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
+    },
+    {
+      "GunName": "bayonet_ak47",
+      "BuyMenu": {
+        "Category": 0,
+        "TeamId": -1,
+        "Cost": 100
       },
       "KillBonus": 0,
       "BaseDamage": 0,
