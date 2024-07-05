@@ -37,7 +37,9 @@
     "supp_m110",
     "supp_m24sws",
     "supp_pbs1",
-    "supp_pbs4"
+    "supp_pbs4",
+    "grip_vg_kac",
+    "grip_vg_mod3"
   ],
   "AddGuns": [
     {
@@ -363,6 +365,48 @@
         "TeamId": -1,
         "Cost": 300,
         "Image": "/Script/Engine.Texture2D'/UGC3269978/Suppressor_PBS4/icon_supp_pbs4.icon_supp_pbs4'"
+      },
+      "MagazineCount": 0,
+      "KillBonus": 0,
+      "BaseDamage": 0,
+      "ArmourDamage": 0,
+      "ArmourPenetration": 0,
+      "HelmetDamage": 0,
+      "HelmetBleed": 0,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
+    },
+    {
+      "GunName": "grip_vg_kac_",
+      "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269978/Grip_VG_KAC/Grip_VG_KAC.Grip_VG_KAC_C'",
+      "BuyMenu": {
+        "Category": 5,
+        "TeamId": -1,
+        "Cost": 300,
+        "Image": "/Script/Engine.Texture2D'/UGC3269978/Grip_VG_KAC/icon_vg_kac.icon_vg_kac'"
+      },
+      "MagazineCount": 0,
+      "KillBonus": 0,
+      "BaseDamage": 0,
+      "ArmourDamage": 0,
+      "ArmourPenetration": 0,
+      "HelmetDamage": 0,
+      "HelmetBleed": 0,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
+    },
+    {
+      "GunName": "grip_vg_mod3_",
+      "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269978/Grip_VG_MOD3/Grip_VG_MOD3.Grip_VG_MOD3_C'",
+      "BuyMenu": {
+        "Category": 5,
+        "TeamId": -1,
+        "Cost": 300,
+        "Image": "/Script/Engine.Texture2D'/UGC3269978/Grip_VG_MOD3/icon_vg_mod3.icon_vg_mod3'"
       },
       "MagazineCount": 0,
       "KillBonus": 0,
@@ -847,24 +891,6 @@
       "KillBonus": 0
     },
     {
-      "GunName": "grip_vg_kac",
-      "BuyMenu": {
-        "Category": 0,
-        "TeamId": -1,
-        "Cost": 400
-      },
-      "KillBonus": 0
-    },
-    {
-      "GunName": "grip_vg_mod3",
-      "BuyMenu": {
-        "Category": 0,
-        "TeamId": -1,
-        "Cost": 400
-      },
-      "KillBonus": 0
-    },
-    {
       "GunName": "bayonet_ak47",
       "BuyMenu": {
         "Category": 0,
@@ -999,5 +1025,41 @@
       "MinFalloffDist": 500,
       "MaxFalloffDist": 4000
     },
+    {
+      "GunName": "grip_vg_kac",
+      "BuyMenu": {
+        "Category": 0,
+        "TeamId": -1,
+        "Cost": 200
+      },
+      "KillBonus": 0,
+      "BaseDamage": 0,
+      "ArmourDamage": 0,
+      "ArmourPenetration": 0,
+      "HelmetDamage": 0,
+      "HelmetBleed": 0,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
+    },
+    {
+      "GunName": "grip_vg_mod3",
+      "BuyMenu": {
+        "Category": 0,
+        "TeamId": -1,
+        "Cost": 200
+      },
+      "KillBonus": 0,
+      "BaseDamage": 0,
+      "ArmourDamage": 0,
+      "ArmourPenetration": 0,
+      "HelmetDamage": 0,
+      "HelmetBleed": 0,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
+    }
   ]
 }
