@@ -227,7 +227,7 @@
       "BuyMenu": {
         "Category": 1,
         "TeamId": -1,
-        "Cost": 1700,
+        "Cost": 1400,
         "Image": "/Script/Engine.Texture2D'/UGC3269978/M110/icon_m110.icon_m110'"
       },
       "MagazineCount": 3,
@@ -669,7 +669,7 @@
       "BuyMenu": {
         "Category": 0,
         "TeamId": -1,
-        "Cost": 1700
+        "Cost": 1400
       },
       "KillBonus": 500,
       "BaseDamage": 25,
