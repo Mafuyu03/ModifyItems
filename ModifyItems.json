@@ -3,6 +3,7 @@
     "banan",
     "minigun",
     "grot",
+    "grot-bl",
     "ak47_cm",
     "ak47gp25_cm",
     "svdm",
@@ -49,8 +50,7 @@
     "scope_okp7",
     "scope_pk06",
     "scope_pkas",
-    "scope_pso1",
-    "grot-bl"
+    "scope_pso1"
   ],
   "AddGuns": [
     {
@@ -661,28 +661,7 @@
       "FalloddModifier": 1,
       "MinFalloffDist": 500,
       "MaxFalloffDist": 4000
-    },
-    {
-      "GunName": "grot-bl_",
-      "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3927308/MSBS-Grot/MSBS_BL.MSBS_BL_C'",
-      "BuyMenu": {
-        "Category": 3,
-        "TeamId": -1,
-        "Cost": 2600,
-        "Image": "/Script/Engine.Texture2D'/UGC3927308/MSBS-Grot/MSBS-Icon.MSBS-Icon'"
-      },
-      "MagazineCount": 3,
-      "KillBonus": 100,
-      "BaseDamage": 20,
-      "ArmourDamage": 14,
-      "ArmourPenetration": 72,
-      "HelmetDamage": 100,
-      "HelmetBleed": 70,
-      "GunPenetration": 100,
-      "FalloddModifier": 1,
-      "MinFalloffDist": 500,
-      "MaxFalloffDist": 4000
-    },
+    }
   ],
   "UpdateDetails": [
     {
@@ -1418,24 +1397,6 @@
       "ArmourPenetration": 0,
       "HelmetDamage": 0,
       "HelmetBleed": 0,
-      "GunPenetration": 100,
-      "FalloddModifier": 1,
-      "MinFalloffDist": 500,
-      "MaxFalloffDist": 4000
-    },
-    {
-      "GunName": "grot-bl",
-      "BuyMenu": {
-        "Category": 3,
-        "TeamId": -1,
-        "Cost": 2600
-      },
-      "KillBonus": 100,
-      "BaseDamage": 20,
-      "ArmourDamage": 14,
-      "ArmourPenetration": 72,
-      "HelmetDamage": 100,
-      "HelmetBleed": 70,
       "GunPenetration": 100,
       "FalloddModifier": 1,
       "MinFalloffDist": 500,
