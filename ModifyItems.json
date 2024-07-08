@@ -1422,6 +1422,24 @@
       "FalloddModifier": 1,
       "MinFalloffDist": 500,
       "MaxFalloffDist": 4000
+    },
+    {
+      "GunName": "grot-bl",
+      "BuyMenu": {
+        "Category": 3,
+        "TeamId": -1,
+        "Cost": 2600
+      },
+      "KillBonus": 100,
+      "BaseDamage": 20,
+      "ArmourDamage": 14,
+      "ArmourPenetration": 72,
+      "HelmetDamage": 100,
+      "HelmetBleed": 70,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
     }
   ]
 }
