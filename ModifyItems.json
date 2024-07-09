@@ -121,7 +121,7 @@
       "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269978/M17/Gun_M17.Gun_M17_C'",
       "BuyMenu": {
         "Category": 6,
-        "TeamId": -1,
+        "TeamId": 1,
         "Cost": 700,
         "Image": "/Script/Engine.Texture2D'/UGC3269978/M17/icon_m17.icon_m17'"
       },
@@ -142,7 +142,7 @@
       "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269978/MP443/Gun_MP443.Gun_MP443_C'",
       "BuyMenu": {
         "Category": 6,
-        "TeamId": -1,
+        "TeamId": 0,
         "Cost": 700,
         "Image": "/Script/Engine.Texture2D'/UGC3269978/MP443/icon_mp443.icon_mp443'"
       },
