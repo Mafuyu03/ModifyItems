@@ -20,11 +20,7 @@
     "mnade_m203",
     "scope_compm4",
     "scope_vudu",
-    "mk17",
-    "mk17_blk",
     "glock19",
-    "mp7_tan",
-    "mp7",
     "m17",
     "mp443",
     "m16a4m203",
@@ -50,51 +46,13 @@
     "scope_okp7",
     "scope_pk06",
     "scope_pkas",
-    "scope_pso1"
+    "scope_pso1",
+    "mk17",
+    "mk17_blk",
+    "mp7_tan",
+    "mp7"
   ],
   "AddGuns": [
-    {
-      "GunName": "mk17_",
-      "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3936882/Gun_MK17_Short.Gun_MK17_Short_C'",
-      "BuyMenu": {
-        "Category": 3,
-        "TeamId": 0,
-        "Cost": 2400,
-        "Image": "/Script/Engine.Texture2D'/UGC3936882/MK17/T_MK17_Icon.T_MK17_Icon'"
-      },
-      "MagazineCount": 3,
-      "KillBonus": 300,
-      "BaseDamage": 25,
-      "ArmourDamage": 25,
-      "ArmourPenetration": 100,
-      "HelmetDamage": 100,
-      "HelmetBleed": 70,
-      "GunPenetration": 100,
-      "FalloddModifier": 1,
-      "MinFalloffDist": 500,
-      "MaxFalloffDist": 4000
-    },
-    {
-      "GunName": "mk17_blk_",
-      "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3936882/Gun_MK17_Short_BLK.Gun_MK17_Short_BLK_C'",
-      "BuyMenu": {
-        "Category": 3,
-        "TeamId": 1,
-        "Cost": 2400,
-        "Image": "/Script/Engine.Texture2D'/UGC3936882/MK17/T_MK17_Icon.T_MK17_Icon'"
-      },
-      "MagazineCount": 3,
-      "KillBonus": 300,
-      "BaseDamage": 25,
-      "ArmourDamage": 25,
-      "ArmourPenetration": 100,
-      "HelmetDamage": 100,
-      "HelmetBleed": 70,
-      "GunPenetration": 100,
-      "FalloddModifier": 1,
-      "MinFalloffDist": 500,
-      "MaxFalloffDist": 4000
-    },
     {
       "GunName": "glock19_",
       "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3272975/Glock19/Gun_Glock19.Gun_Glock19_C'",
@@ -115,48 +73,6 @@
       "FalloddModifier": 1,
       "MinFalloffDist": 500,
       "MaxFalloffDist": 4000
-    },
-    {
-      "GunName": "mp7_tan_",
-      "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3992329/MP7/Gun_MP7_Tan.Gun_MP7_Tan_C'",
-      "BuyMenu": {
-        "Category": 2,
-        "TeamId": 0,
-        "Cost": 1400,
-        "Image": "/Script/Engine.Texture2D'/UGC3992329/T_MP7_Icon.T_MP7_Icon'"
-      },
-      "MagazineCount": 3,
-      "KillBonus": 500,
-      "BaseDamage": 20,
-      "ArmourDamage": 11,
-      "ArmourPenetration": 56,
-      "HelmetDamage": 50,
-      "HelmetBleed": 55,
-      "GunPenetration": 100,
-      "FalloddModifier": 1,
-      "MinFalloffDist": 1000,
-      "MaxFalloffDist": 1250
-    },
-    {
-      "GunName": "mp7_",
-      "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3992329/MP7/Gun_MP7.Gun_MP7_C'",
-      "BuyMenu": {
-        "Category": 2,
-        "TeamId": 1,
-        "Cost": 1400,
-        "Image": "/Script/Engine.Texture2D'/UGC3992329/T_MP7_Icon.T_MP7_Icon'"
-      },
-      "MagazineCount": 3,
-      "KillBonus": 500,
-      "BaseDamage": 20,
-      "ArmourDamage": 11,
-      "ArmourPenetration": 56,
-      "HelmetDamage": 50,
-      "HelmetBleed": 55,
-      "GunPenetration": 100,
-      "FalloddModifier": 1,
-      "MinFalloffDist": 1000,
-      "MaxFalloffDist": 1250
     },
     {
       "GunName": "m17_",
@@ -703,6 +619,90 @@
       "FalloddModifier": 1,
       "MinFalloffDist": 500,
       "MaxFalloffDist": 4000
+    },
+    {
+      "GunName": "mk17_",
+      "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3936882/Gun_MK17_Short.Gun_MK17_Short_C'",
+      "BuyMenu": {
+        "Category": 3,
+        "TeamId": 0,
+        "Cost": 2400,
+        "Image": "/Script/Engine.Texture2D'/UGC3936882/MK17/T_MK17_Icon.T_MK17_Icon'"
+      },
+      "MagazineCount": 3,
+      "KillBonus": 300,
+      "BaseDamage": 25,
+      "ArmourDamage": 25,
+      "ArmourPenetration": 100,
+      "HelmetDamage": 100,
+      "HelmetBleed": 70,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
+    },
+    {
+      "GunName": "mk17_blk_",
+      "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3936882/Gun_MK17_Short_BLK.Gun_MK17_Short_BLK_C'",
+      "BuyMenu": {
+        "Category": 3,
+        "TeamId": 1,
+        "Cost": 2400,
+        "Image": "/Script/Engine.Texture2D'/UGC3936882/MK17/T_MK17_Icon.T_MK17_Icon'"
+      },
+      "MagazineCount": 3,
+      "KillBonus": 300,
+      "BaseDamage": 25,
+      "ArmourDamage": 25,
+      "ArmourPenetration": 100,
+      "HelmetDamage": 100,
+      "HelmetBleed": 70,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
+    },
+      {
+      "GunName": "mp7_tan_",
+      "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3992329/MP7/Gun_MP7_Tan.Gun_MP7_Tan_C'",
+      "BuyMenu": {
+        "Category": 2,
+        "TeamId": 0,
+        "Cost": 1400,
+        "Image": "/Script/Engine.Texture2D'/UGC3992329/T_MP7_Icon.T_MP7_Icon'"
+      },
+      "MagazineCount": 3,
+      "KillBonus": 500,
+      "BaseDamage": 20,
+      "ArmourDamage": 11,
+      "ArmourPenetration": 56,
+      "HelmetDamage": 50,
+      "HelmetBleed": 55,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 1000,
+      "MaxFalloffDist": 1250
+    },
+    {
+      "GunName": "mp7_",
+      "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3992329/MP7/Gun_MP7.Gun_MP7_C'",
+      "BuyMenu": {
+        "Category": 2,
+        "TeamId": 1,
+        "Cost": 1400,
+        "Image": "/Script/Engine.Texture2D'/UGC3992329/T_MP7_Icon.T_MP7_Icon'"
+      },
+      "MagazineCount": 3,
+      "KillBonus": 500,
+      "BaseDamage": 20,
+      "ArmourDamage": 11,
+      "ArmourPenetration": 56,
+      "HelmetDamage": 50,
+      "HelmetBleed": 55,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 1000,
+      "MaxFalloffDist": 1250
     }
   ],
   "UpdateDetails": [
@@ -773,42 +773,6 @@
       "ArmourPenetration": 60,
       "HelmetDamage": 50,
       "HelmetBleed": 50,
-      "GunPenetration": 100,
-      "FalloddModifier": 1,
-      "MinFalloffDist": 500,
-      "MaxFalloffDist": 4000
-    },
-    {
-      "GunName": "mk17",
-      "BuyMenu": {
-        "Category": 0,
-        "TeamId": -1,
-        "Cost": 2400
-      },
-      "KillBonus": 300,
-      "BaseDamage": 25,
-      "ArmourDamage": 25,
-      "ArmourPenetration": 100,
-      "HelmetDamage": 100,
-      "HelmetBleed": 70,
-      "GunPenetration": 100,
-      "FalloddModifier": 1,
-      "MinFalloffDist": 500,
-      "MaxFalloffDist": 4000
-    },
-    {
-      "GunName": "mk17_blk",
-      "BuyMenu": {
-        "Category": 0,
-        "TeamId": -1,
-        "Cost": 2400
-      },
-      "KillBonus": 300,
-      "BaseDamage": 25,
-      "ArmourDamage": 25,
-      "ArmourPenetration": 100,
-      "HelmetDamage": 100,
-      "HelmetBleed": 70,
       "GunPenetration": 100,
       "FalloddModifier": 1,
       "MinFalloffDist": 500,
@@ -903,42 +867,6 @@
       "FalloddModifier": 1,
       "MinFalloffDist": 500,
       "MaxFalloffDist": 4000
-    },
-    {
-      "GunName": "mp7",
-      "BuyMenu": {
-        "Category": 0,
-        "TeamId": -1,
-        "Cost": 1400
-      },
-      "KillBonus": 500,
-      "BaseDamage": 20,
-      "ArmourDamage": 11,
-      "ArmourPenetration": 56,
-      "HelmetDamage": 50,
-      "HelmetBleed": 55,
-      "GunPenetration": 100,
-      "FalloddModifier": 1,
-      "MinFalloffDist": 1000,
-      "MaxFalloffDist": 1250
-    },
-    {
-      "GunName": "mp7_tan",
-      "BuyMenu": {
-        "Category": 0,
-        "TeamId": -1,
-        "Cost": 1400
-      },
-      "KillBonus": 500,
-      "BaseDamage": 20,
-      "ArmourDamage": 11,
-      "ArmourPenetration": 56,
-      "HelmetDamage": 50,
-      "HelmetBleed": 55,
-      "GunPenetration": 100,
-      "FalloddModifier": 1,
-      "MinFalloffDist": 1000,
-      "MaxFalloffDist": 1250
     },
     {
       "GunName": "m16a3",
@@ -1461,6 +1389,78 @@
       "FalloddModifier": 1,
       "MinFalloffDist": 500,
       "MaxFalloffDist": 4000
+    },
+    {
+      "GunName": "mk17",
+      "BuyMenu": {
+        "Category": 0,
+        "TeamId": -1,
+        "Cost": 2400
+      },
+      "KillBonus": 300,
+      "BaseDamage": 25,
+      "ArmourDamage": 25,
+      "ArmourPenetration": 100,
+      "HelmetDamage": 100,
+      "HelmetBleed": 70,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
+    },
+    {
+      "GunName": "mk17_blk",
+      "BuyMenu": {
+        "Category": 0,
+        "TeamId": -1,
+        "Cost": 2400
+      },
+      "KillBonus": 300,
+      "BaseDamage": 25,
+      "ArmourDamage": 25,
+      "ArmourPenetration": 100,
+      "HelmetDamage": 100,
+      "HelmetBleed": 70,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
+    },
+    {
+      "GunName": "mp7_tan",
+      "BuyMenu": {
+        "Category": 0,
+        "TeamId": -1,
+        "Cost": 1400
+      },
+      "KillBonus": 500,
+      "BaseDamage": 20,
+      "ArmourDamage": 11,
+      "ArmourPenetration": 56,
+      "HelmetDamage": 50,
+      "HelmetBleed": 55,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 1000,
+      "MaxFalloffDist": 1250
+    },
+    {
+      "GunName": "mp7",
+      "BuyMenu": {
+        "Category": 0,
+        "TeamId": -1,
+        "Cost": 1400
+      },
+      "KillBonus": 500,
+      "BaseDamage": 20,
+      "ArmourDamage": 11,
+      "ArmourPenetration": 56,
+      "HelmetDamage": 50,
+      "HelmetBleed": 55,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 1000,
+      "MaxFalloffDist": 1250
     }
   ]
 }
