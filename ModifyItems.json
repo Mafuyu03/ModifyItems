@@ -729,7 +729,7 @@
     },
     {
       "GunName": "m9_",
-      "GunClass": "/Script/Engine.BlueprintGeneratedClass'/M9/Gun_M9.Gun_M9_C'",
+      "GunClass": "/Content/Guns/M9/Gun_M9.Gun_M9_C",
       "BuyMenu": {
         "Category": 6,
         "TeamId": 0,
