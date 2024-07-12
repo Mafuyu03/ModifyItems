@@ -19,8 +19,6 @@
     "mnade_m203",
     "scope_compm4",
     "scope_vudu",
-    "m17",
-    "mp443",
     "m16a4m203",
     "m24sws",
     "sv98",
@@ -45,6 +43,8 @@
     "scope_pk06",
     "scope_pkas",
     "scope_pso1",
+    "m17",
+    "mp443",
     "mk17",
     "mk17_blk",
     "mp7_tan",
@@ -746,60 +746,6 @@
       "MaxFalloffDist": 4000
     },
     {
-      "GunName": "m9a1",
-      "BuyMenu": {
-        "Category": 0,
-        "TeamId": -1,
-        "Cost": 250
-      },
-      "KillBonus": 700,
-      "BaseDamage": 20,
-      "ArmourDamage": 12,
-      "ArmourPenetration": 63,
-      "HelmetDamage": 50,
-      "HelmetBleed": 50,
-      "GunPenetration": 100,
-      "FalloddModifier": 1,
-      "MinFalloffDist": 500,
-      "MaxFalloffDist": 4000
-    },
-    {
-      "GunName": "m17",
-      "BuyMenu": {
-        "Category": 0,
-        "TeamId": -1,
-        "Cost": 700
-      },
-      "KillBonus": 700,
-      "BaseDamage": 25,
-      "ArmourDamage": 15,
-      "ArmourPenetration": 60,
-      "HelmetDamage": 50,
-      "HelmetBleed": 50,
-      "GunPenetration": 100,
-      "FalloddModifier": 1,
-      "MinFalloffDist": 500,
-      "MaxFalloffDist": 4000
-    },
-    {
-      "GunName": "mp443",
-      "BuyMenu": {
-        "Category": 0,
-        "TeamId": -1,
-        "Cost": 700
-      },
-      "KillBonus": 700,
-      "BaseDamage": 25,
-      "ArmourDamage": 15,
-      "ArmourPenetration": 60,
-      "HelmetDamage": 50,
-      "HelmetBleed": 50,
-      "GunPenetration": 100,
-      "FalloddModifier": 1,
-      "MinFalloffDist": 500,
-      "MaxFalloffDist": 4000
-    },
-    {
       "GunName": "aks74u",
       "BuyMenu": {
         "Category": 0,
@@ -1376,6 +1322,42 @@
       "MaxFalloffDist": 4000
     },
     {
+      "GunName": "m17",
+      "BuyMenu": {
+        "Category": 0,
+        "TeamId": 0,
+        "Cost": 700
+      },
+      "KillBonus": 700,
+      "BaseDamage": 25,
+      "ArmourDamage": 15,
+      "ArmourPenetration": 60,
+      "HelmetDamage": 50,
+      "HelmetBleed": 50,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
+    },
+    {
+      "GunName": "mp443",
+      "BuyMenu": {
+        "Category": 0,
+        "TeamId": 1,
+        "Cost": 700
+      },
+      "KillBonus": 700,
+      "BaseDamage": 25,
+      "ArmourDamage": 15,
+      "ArmourPenetration": 60,
+      "HelmetDamage": 50,
+      "HelmetBleed": 50,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
+    },
+    {
       "GunName": "mk17",
       "BuyMenu": {
         "Category": 0,
@@ -1476,6 +1458,24 @@
       "BaseDamage": 25,
       "ArmourDamage": 12,
       "ArmourPenetration": 50,
+      "HelmetDamage": 50,
+      "HelmetBleed": 50,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
+    },
+    {
+      "GunName": "m9a1",
+      "BuyMenu": {
+        "Category": 0,
+        "TeamId": -1,
+        "Cost": 300
+      },
+      "KillBonus": 700,
+      "BaseDamage": 20,
+      "ArmourDamage": 12,
+      "ArmourPenetration": 63,
       "HelmetDamage": 50,
       "HelmetBleed": 50,
       "GunPenetration": 100,
