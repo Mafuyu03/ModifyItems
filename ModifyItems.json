@@ -51,6 +51,7 @@
     "mp7",
     "glock19_army",
     "glock19",
+    "m9",
     "m9a1"
   ],
   "AddGuns": [
@@ -719,6 +720,27 @@
       "BaseDamage": 25,
       "ArmourDamage": 12,
       "ArmourPenetration": 50,
+      "HelmetDamage": 50,
+      "HelmetBleed": 50,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
+    },
+    {
+      "GunName": "m9_",
+      "GunClass": "/Script/Engine.BlueprintGeneratedClass'/Guns/M9/Gun_M9.Gun_M9_C'",
+      "BuyMenu": {
+        "Category": 6,
+        "TeamId": 0,
+        "Cost": 250,
+        "Image": "/Script/Engine.Texture2D'/UI/Wheel/BuyMenu/Textures/T_GunThumb_M9.T_GunThumb_M9'"
+      },
+      "MagazineCount": 3,
+      "KillBonus": 700,
+      "BaseDamage": 20,
+      "ArmourDamage": 12,
+      "ArmourPenetration": 63,
       "HelmetDamage": 50,
       "HelmetBleed": 50,
       "GunPenetration": 100,
