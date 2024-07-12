@@ -729,12 +729,12 @@
     },
     {
       "GunName": "m9_",
-      "GunClass": "/Script/Engine.BlueprintGeneratedClass'/Guns/M9/Gun_M9.Gun_M9_C'",
+      "GunClass": "/Script/Engine.BlueprintGeneratedClass'/M9/Gun_M9.Gun_M9_C'",
       "BuyMenu": {
         "Category": 6,
         "TeamId": 0,
         "Cost": 250,
-        "Image": "/Script/Engine.Texture2D'/UI/Wheel/BuyMenu/Textures/T_GunThumb_M9.T_GunThumb_M9'"
+        "Image": "/Script/Engine.Texture2D'/UGC3269978/M9A1/icon_m9a1.icon_m9a1'"
       },
       "MagazineCount": 3,
       "KillBonus": 700,
