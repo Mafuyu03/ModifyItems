@@ -731,8 +731,8 @@
       "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269978/M9A1/Gun_M9A1.Gun_M9A1_C'",
       "BuyMenu": {
         "Category": 6,
-        "TeamId": -1,
-        "Cost": 300,
+        "TeamId": 1,
+        "Cost": 250,
         "Image": "/Script/Engine.Texture2D'/UGC3269978/M9A1/icon_m9a1.icon_m9a1'"
       },
       "MagazineCount": 3,
