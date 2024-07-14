@@ -6,7 +6,6 @@
     "grot-bl",
     "ak47_cm",
     "ak47gp25_cm",
-    "svdm",
     "vss",
     "asval",
     "m16a3m203",
@@ -19,7 +18,6 @@
     "scope_vudu",
     "m16a4m203",
     "sv98",
-    "svd",
     "supp_socom",
     "supp_sv98",
     "supp_m110",
@@ -51,7 +49,9 @@
     "m24sws_desert",
     "m24sws",
     "m110_tan",
-    "m110"
+    "m110",
+    "svdm",
+    "svd"
   ],
   "AddGuns": [
     {
@@ -131,27 +131,6 @@
       "BaseDamage": 100,
       "ArmourDamage": 99,
       "ArmourPenetration": 99,
-      "HelmetDamage": 100,
-      "HelmetBleed": 100,
-      "GunPenetration": 100,
-      "FalloddModifier": 1,
-      "MinFalloffDist": 500,
-      "MaxFalloffDist": 4000
-    },
-    {
-      "GunName": "svd_",
-      "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269978/SVD/Gun_SVD.Gun_SVD_C'",
-      "BuyMenu": {
-        "Category": 1,
-        "TeamId": -1,
-        "Cost": 2100,
-        "Image": "/Script/Engine.Texture2D'/UGC3269978/SVD/icon_svd.icon_svd'"
-      },
-      "MagazineCount": 3,
-      "KillBonus": 300,
-      "BaseDamage": 45,
-      "ArmourDamage": 45,
-      "ArmourPenetration": 100,
       "HelmetDamage": 100,
       "HelmetBleed": 100,
       "GunPenetration": 100,
@@ -788,6 +767,48 @@
       "FalloddModifier": 1,
       "MinFalloffDist": 500,
       "MaxFalloffDist": 4000
+    },
+    {
+      "GunName": "svdm_",
+      "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269978/SVD/Gun_SVDM.Gun_SVDM_C'",
+      "BuyMenu": {
+        "Category": 1,
+        "TeamId": 0,
+        "Cost": 2100,
+        "Image": "/Script/Engine.Texture2D'/UGC3269978/SVD/icon_svd.icon_svd'"
+      },
+      "MagazineCount": 3,
+      "KillBonus": 300,
+      "BaseDamage": 45,
+      "ArmourDamage": 45,
+      "ArmourPenetration": 100,
+      "HelmetDamage": 100,
+      "HelmetBleed": 100,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
+    },
+    {
+      "GunName": "svd_",
+      "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269978/SVD/Gun_SVD.Gun_SVD_C'",
+      "BuyMenu": {
+        "Category": 1,
+        "TeamId": 1,
+        "Cost": 2100,
+        "Image": "/Script/Engine.Texture2D'/UGC3269978/SVD/icon_svd.icon_svd'"
+      },
+      "MagazineCount": 3,
+      "KillBonus": 300,
+      "BaseDamage": 45,
+      "ArmourDamage": 45,
+      "ArmourPenetration": 100,
+      "HelmetDamage": 100,
+      "HelmetBleed": 100,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
     }
   ],
   "UpdateDetails": [
@@ -874,24 +895,6 @@
       "BaseDamage": 100,
       "ArmourDamage": 99,
       "ArmourPenetration": 99,
-      "HelmetDamage": 100,
-      "HelmetBleed": 100,
-      "GunPenetration": 100,
-      "FalloddModifier": 1,
-      "MinFalloffDist": 500,
-      "MaxFalloffDist": 4000
-    },
-    {
-      "GunName": "svd",
-      "BuyMenu": {
-        "Category": 0,
-        "TeamId": -1,
-        "Cost": 2100
-      },
-      "KillBonus": 300,
-      "BaseDamage": 45,
-      "ArmourDamage": 45,
-      "ArmourPenetration": 100,
       "HelmetDamage": 100,
       "HelmetBleed": 100,
       "GunPenetration": 100,
@@ -1578,6 +1581,42 @@
       "ArmourPenetration": 100,
       "HelmetDamage": 100,
       "HelmetBleed": 75,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
+    },
+    {
+      "GunName": "svdm",
+      "BuyMenu": {
+        "Category": 0,
+        "TeamId": 0,
+        "Cost": 2100
+      },
+      "KillBonus": 300,
+      "BaseDamage": 45,
+      "ArmourDamage": 45,
+      "ArmourPenetration": 100,
+      "HelmetDamage": 100,
+      "HelmetBleed": 100,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
+    },
+    {
+      "GunName": "svd",
+      "BuyMenu": {
+        "Category": 0,
+        "TeamId": 1,
+        "Cost": 2100
+      },
+      "KillBonus": 300,
+      "BaseDamage": 45,
+      "ArmourDamage": 45,
+      "ArmourPenetration": 100,
+      "HelmetDamage": 100,
+      "HelmetBleed": 100,
       "GunPenetration": 100,
       "FalloddModifier": 1,
       "MinFalloffDist": 500,
