@@ -1564,7 +1564,7 @@
       "FalloddModifier": 1,
       "MinFalloffDist": 500,
       "MaxFalloffDist": 4000
-    }
+    },
     {
       "GunName": "m110",
       "BuyMenu": {
