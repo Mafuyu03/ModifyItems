@@ -37,45 +37,24 @@
     "scope_pk06",
     "scope_pkas",
     "scope_pso1",
-    "m17",
-    "mp443",
     "mk17",
     "mk17_blk",
     "mp7_tan",
     "mp7",
     "glock19_army",
     "glock19",
-    "m9a1",
     "m24sws_desert",
     "m24sws",
     "m110_tan",
     "m110",
     "svdm",
     "svd",
-    "scope_m3a"
+    "scope_m3a",
+    "mp443",
+    "m17",
+    "m9a1"
   ],
   "AddGuns": [
-    {
-      "GunName": "m17_",
-      "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269978/M17/Gun_M17.Gun_M17_C'",
-      "BuyMenu": {
-        "Category": 6,
-        "TeamId": 0,
-        "Cost": 700,
-        "Image": "/Script/Engine.Texture2D'/UGC3269978/M17/icon_m17.icon_m17'"
-      },
-      "MagazineCount": 3,
-      "KillBonus": 700,
-      "BaseDamage": 25,
-      "ArmourDamage": 15,
-      "ArmourPenetration": 60,
-      "HelmetDamage": 50,
-      "HelmetBleed": 50,
-      "GunPenetration": 100,
-      "FalloddModifier": 1,
-      "MinFalloffDist": 500,
-      "MaxFalloffDist": 4000
-    },
     {
       "GunName": "m16a4m203_",
       "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269978/M16A4/Gun_M16A4M203.Gun_M16A4M203_C'",
@@ -644,27 +623,6 @@
       "MaxFalloffDist": 4000
     },
     {
-      "GunName": "m9a1_",
-      "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269978/M9A1/Gun_M9A1.Gun_M9A1_C'",
-      "BuyMenu": {
-        "Category": 6,
-        "TeamId": 1,
-        "Cost": 250,
-        "Image": "/Script/Engine.Texture2D'/UGC3269978/M9A1/icon_m9a1.icon_m9a1'"
-      },
-      "MagazineCount": 3,
-      "KillBonus": 700,
-      "BaseDamage": 20,
-      "ArmourDamage": 12,
-      "ArmourPenetration": 63,
-      "HelmetDamage": 50,
-      "HelmetBleed": 50,
-      "GunPenetration": 100,
-      "FalloddModifier": 1,
-      "MinFalloffDist": 500,
-      "MaxFalloffDist": 4000
-    },
-    {
       "GunName": "m24sws_desert_",
       "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269978/M24SWS/Gun_M24SWS_DESERT.Gun_M24SWS_DESERT_C'",
       "BuyMenu": {
@@ -846,6 +804,90 @@
       "BaseDamage": 25,
       "ArmourDamage": 15,
       "ArmourPenetration": 60,
+      "HelmetDamage": 50,
+      "HelmetBleed": 50,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
+    },
+    {
+      "GunName": "m17_blue",
+      "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269978/M17/Gun_M17.Gun_M17_C'",
+      "BuyMenu": {
+        "Category": 6,
+        "TeamId": 0,
+        "Cost": 700,
+        "Image": "/Script/Engine.Texture2D'/UGC3269978/M17/icon_m17.icon_m17'"
+      },
+      "MagazineCount": 3,
+      "KillBonus": 700,
+      "BaseDamage": 25,
+      "ArmourDamage": 15,
+      "ArmourPenetration": 60,
+      "HelmetDamage": 50,
+      "HelmetBleed": 50,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
+    },
+    {
+      "GunName": "m17_red",
+      "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269978/M17/Gun_M17.Gun_M17_C'",
+      "BuyMenu": {
+        "Category": 6,
+        "TeamId": 1,
+        "Cost": 700,
+        "Image": "/Script/Engine.Texture2D'/UGC3269978/M17/icon_m17.icon_m17'"
+      },
+      "MagazineCount": 3,
+      "KillBonus": 700,
+      "BaseDamage": 25,
+      "ArmourDamage": 15,
+      "ArmourPenetration": 60,
+      "HelmetDamage": 50,
+      "HelmetBleed": 50,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
+    },
+    {
+      "GunName": "m9a1_blue",
+      "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269978/M9A1/Gun_M9A1.Gun_M9A1_C'",
+      "BuyMenu": {
+        "Category": 6,
+        "TeamId": 0,
+        "Cost": 250,
+        "Image": "/Script/Engine.Texture2D'/UGC3269978/M9A1/icon_m9a1.icon_m9a1'"
+      },
+      "MagazineCount": 3,
+      "KillBonus": 700,
+      "BaseDamage": 20,
+      "ArmourDamage": 12,
+      "ArmourPenetration": 63,
+      "HelmetDamage": 50,
+      "HelmetBleed": 50,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
+    },
+    {
+      "GunName": "m9a1_red",
+      "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269978/M9A1/Gun_M9A1.Gun_M9A1_C'",
+      "BuyMenu": {
+        "Category": 6,
+        "TeamId": 1,
+        "Cost": 250,
+        "Image": "/Script/Engine.Texture2D'/UGC3269978/M9A1/icon_m9a1.icon_m9a1'"
+      },
+      "MagazineCount": 3,
+      "KillBonus": 700,
+      "BaseDamage": 20,
+      "ArmourDamage": 12,
+      "ArmourPenetration": 63,
       "HelmetDamage": 50,
       "HelmetBleed": 50,
       "GunPenetration": 100,
