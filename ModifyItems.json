@@ -52,7 +52,8 @@
     "m17",
     "m9a1",
     "m16a4m203",
-    "sv98"
+    "sv98",
+    "m16a3"
   ],
   "AddGuns": [
     {
@@ -936,6 +937,48 @@
       "FalloddModifier": 1,
       "MinFalloffDist": 500,
       "MaxFalloffDist": 4000
+    },
+    {
+      "GunName": "m16a3_blue",
+      "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269978/M16A3/Gun_M16A3.Gun_M16A3_C'",
+      "BuyMenu": {
+        "Category": 3,
+        "TeamId": 0,
+        "Cost": 2500,
+        "Image": "/Script/Engine.Texture2D'/UGC3269978/M16A3/icon_m16a3.icon_m16a3'"
+      },
+      "MagazineCount": 3,
+      "KillBonus": 100,
+      "BaseDamage": 20,
+      "ArmourDamage": 20,
+      "ArmourPenetration": 100,
+      "HelmetDamage": 100,
+      "HelmetBleed": 75,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
+    },
+    {
+      "GunName": "m16a3_red",
+      "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269978/M16A3/Gun_M16A3.Gun_M16A3_C'",
+      "BuyMenu": {
+        "Category": 3,
+        "TeamId": 1,
+        "Cost": 2500,
+        "Image": "/Script/Engine.Texture2D'/UGC3269978/M16A3/icon_m16a3.icon_m16a3'"
+      },
+      "MagazineCount": 3,
+      "KillBonus": 100,
+      "BaseDamage": 20,
+      "ArmourDamage": 20,
+      "ArmourPenetration": 100,
+      "HelmetDamage": 100,
+      "HelmetBleed": 75,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
     }
   ],
   "UpdateDetails": [
@@ -988,24 +1031,6 @@
       "ArmourPenetration": 100,
       "HelmetDamage": 100,
       "HelmetBleed": 70,
-      "GunPenetration": 100,
-      "FalloddModifier": 1,
-      "MinFalloffDist": 500,
-      "MaxFalloffDist": 4000
-    },
-    {
-      "GunName": "m16a3",
-      "BuyMenu": {
-        "Category": 0,
-        "TeamId": -1,
-        "Cost": 2500
-      },
-      "KillBonus": 100,
-      "BaseDamage": 20,
-      "ArmourDamage": 20,
-      "ArmourPenetration": 100,
-      "HelmetDamage": 100,
-      "HelmetBleed": 75,
       "GunPenetration": 100,
       "FalloddModifier": 1,
       "MinFalloffDist": 500,
@@ -1624,24 +1649,6 @@
       "MaxFalloffDist": 4000
     },
     {
-      "GunName": "m9a1",
-      "BuyMenu": {
-        "Category": 0,
-        "TeamId": -1,
-        "Cost": 300
-      },
-      "KillBonus": 700,
-      "BaseDamage": 20,
-      "ArmourDamage": 12,
-      "ArmourPenetration": 63,
-      "HelmetDamage": 50,
-      "HelmetBleed": 50,
-      "GunPenetration": 100,
-      "FalloddModifier": 1,
-      "MinFalloffDist": 500,
-      "MaxFalloffDist": 4000
-    },
-    {
       "GunName": "m24sws_desert",
       "BuyMenu": {
         "Category": 0,
@@ -1762,6 +1769,42 @@
       "ArmourPenetration": 0,
       "HelmetDamage": 0,
       "HelmetBleed": 0,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
+    },
+    {
+      "GunName": "m16a3",
+      "BuyMenu": {
+        "Category": 0,
+        "TeamId": -1,
+        "Cost": 2500
+      },
+      "KillBonus": 100,
+      "BaseDamage": 20,
+      "ArmourDamage": 20,
+      "ArmourPenetration": 100,
+      "HelmetDamage": 100,
+      "HelmetBleed": 75,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
+    },
+    {
+      "GunName": "m9a1",
+      "BuyMenu": {
+        "Category": 0,
+        "TeamId": -1,
+        "Cost": 300
+      },
+      "KillBonus": 700,
+      "BaseDamage": 20,
+      "ArmourDamage": 12,
+      "ArmourPenetration": 63,
+      "HelmetDamage": 50,
+      "HelmetBleed": 50,
       "GunPenetration": 100,
       "FalloddModifier": 1,
       "MinFalloffDist": 500,
