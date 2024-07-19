@@ -77,27 +77,6 @@
       "MaxFalloffDist": 4000
     },
     {
-      "GunName": "mp443_",
-      "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269978/MP443/Gun_MP443.Gun_MP443_C'",
-      "BuyMenu": {
-        "Category": 6,
-        "TeamId": 1,
-        "Cost": 700,
-        "Image": "/Script/Engine.Texture2D'/UGC3269978/MP443/icon_mp443.icon_mp443'"
-      },
-      "MagazineCount": 3,
-      "KillBonus": 700,
-      "BaseDamage": 25,
-      "ArmourDamage": 15,
-      "ArmourPenetration": 60,
-      "HelmetDamage": 50,
-      "HelmetBleed": 50,
-      "GunPenetration": 100,
-      "FalloddModifier": 1,
-      "MinFalloffDist": 500,
-      "MaxFalloffDist": 4000
-    },
-    {
       "GunName": "m16a4m203_",
       "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269978/M16A4/Gun_M16A4M203.Gun_M16A4M203_C'",
       "BuyMenu": {
@@ -827,6 +806,48 @@
       "ArmourPenetration": 0,
       "HelmetDamage": 0,
       "HelmetBleed": 0,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
+    },
+    {
+      "GunName": "mp443_blue",
+      "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269978/MP443/Gun_MP443.Gun_MP443_C'",
+      "BuyMenu": {
+        "Category": 6,
+        "TeamId": 1,
+        "Cost": 700,
+        "Image": "/Script/Engine.Texture2D'/UGC3269978/MP443/icon_mp443.icon_mp443'"
+      },
+      "MagazineCount": 3,
+      "KillBonus": 700,
+      "BaseDamage": 25,
+      "ArmourDamage": 15,
+      "ArmourPenetration": 60,
+      "HelmetDamage": 50,
+      "HelmetBleed": 50,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
+    },
+    {
+      "GunName": "mp443_red",
+      "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269978/MP443/Gun_MP443.Gun_MP443_C'",
+      "BuyMenu": {
+        "Category": 6,
+        "TeamId": 1,
+        "Cost": 700,
+        "Image": "/Script/Engine.Texture2D'/UGC3269978/MP443/icon_mp443.icon_mp443'"
+      },
+      "MagazineCount": 3,
+      "KillBonus": 700,
+      "BaseDamage": 25,
+      "ArmourDamage": 15,
+      "ArmourPenetration": 60,
+      "HelmetDamage": 50,
+      "HelmetBleed": 50,
       "GunPenetration": 100,
       "FalloddModifier": 1,
       "MinFalloffDist": 500,
