@@ -944,7 +944,7 @@
       "BuyMenu": {
         "Category": 3,
         "TeamId": 0,
-        "Cost": 2510,
+        "Cost": 2500,
         "Image": "/Script/Engine.Texture2D'/UGC3269978/M16A3/icon_m16a3.icon_m16a3'"
       },
       "MagazineCount": 3,
@@ -965,7 +965,7 @@
       "BuyMenu": {
         "Category": 3,
         "TeamId": 1,
-        "Cost": 2550,
+        "Cost": 2500,
         "Image": "/Script/Engine.Texture2D'/UGC3269978/M16A3/icon_m16a3.icon_m16a3'"
       },
       "MagazineCount": 3,
