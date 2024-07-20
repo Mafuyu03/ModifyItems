@@ -45,15 +45,15 @@
     "m24sws",
     "m110_tan",
     "m110",
-    "svdm",
-    "svd",
     "scope_m3a",
     "mp443",
     "m17",
     "m9a1",
     "m16a4m203",
     "sv98",
-    "m16a3"
+    "m16a3",
+    "svdm",
+    "svd"
   ],
   "AddGuns": [
     {
@@ -666,48 +666,6 @@
       "MaxFalloffDist": 4000
     },
     {
-      "GunName": "svdm_",
-      "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269978/SVD/Gun_SVDM.Gun_SVDM_C'",
-      "BuyMenu": {
-        "Category": 1,
-        "TeamId": 0,
-        "Cost": 2100,
-        "Image": "/Script/Engine.Texture2D'/UGC3269978/SVD/icon_svd.icon_svd'"
-      },
-      "MagazineCount": 3,
-      "KillBonus": 300,
-      "BaseDamage": 45,
-      "ArmourDamage": 45,
-      "ArmourPenetration": 100,
-      "HelmetDamage": 100,
-      "HelmetBleed": 100,
-      "GunPenetration": 100,
-      "FalloddModifier": 1,
-      "MinFalloffDist": 500,
-      "MaxFalloffDist": 4000
-    },
-    {
-      "GunName": "svd_",
-      "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269978/SVD/Gun_SVD.Gun_SVD_C'",
-      "BuyMenu": {
-        "Category": 1,
-        "TeamId": 1,
-        "Cost": 2100,
-        "Image": "/Script/Engine.Texture2D'/UGC3269978/SVD/icon_svd.icon_svd'"
-      },
-      "MagazineCount": 3,
-      "KillBonus": 300,
-      "BaseDamage": 45,
-      "ArmourDamage": 45,
-      "ArmourPenetration": 100,
-      "HelmetDamage": 100,
-      "HelmetBleed": 100,
-      "GunPenetration": 100,
-      "FalloddModifier": 1,
-      "MinFalloffDist": 500,
-      "MaxFalloffDist": 4000
-    },
-    {
       "GunName": "scope_m3a_",
       "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269978/Scope_M3A/Scope_M3A.Scope_M3A_C'",
       "BuyMenu": {
@@ -975,6 +933,48 @@
       "ArmourPenetration": 100,
       "HelmetDamage": 100,
       "HelmetBleed": 75,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
+    },
+    {
+      "GunName": "svdm_blue",
+      "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269978/SVD/Gun_SVDM.Gun_SVDM_C'",
+      "BuyMenu": {
+        "Category": 1,
+        "TeamId": 0,
+        "Cost": 2100,
+        "Image": "/Script/Engine.Texture2D'/UGC3269978/SVD/icon_svd.icon_svd'"
+      },
+      "MagazineCount": 3,
+      "KillBonus": 300,
+      "BaseDamage": 45,
+      "ArmourDamage": 45,
+      "ArmourPenetration": 100,
+      "HelmetDamage": 100,
+      "HelmetBleed": 100,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
+    },
+    {
+      "GunName": "svd_red",
+      "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269978/SVD/Gun_SVD.Gun_SVD_C'",
+      "BuyMenu": {
+        "Category": 1,
+        "TeamId": 1,
+        "Cost": 2100,
+        "Image": "/Script/Engine.Texture2D'/UGC3269978/SVD/icon_svd.icon_svd'"
+      },
+      "MagazineCount": 3,
+      "KillBonus": 300,
+      "BaseDamage": 45,
+      "ArmourDamage": 45,
+      "ArmourPenetration": 100,
+      "HelmetDamage": 100,
+      "HelmetBleed": 100,
       "GunPenetration": 100,
       "FalloddModifier": 1,
       "MinFalloffDist": 500,
