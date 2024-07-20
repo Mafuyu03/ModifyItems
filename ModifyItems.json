@@ -43,8 +43,6 @@
     "glock19",
     "m24sws_desert",
     "m24sws",
-    "m110_tan",
-    "m110",
     "scope_m3a",
     "mp443",
     "m17",
@@ -53,7 +51,9 @@
     "sv98",
     "m16a3",
     "svdm",
-    "svd"
+    "svd",
+    "m110_tan",
+    "m110"
   ],
   "AddGuns": [
     {
@@ -624,48 +624,6 @@
       "MaxFalloffDist": 4000
     },
     {
-      "GunName": "m110_tan_",
-      "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269978/M110/Gun_M110_Tan.Gun_M110_Tan_C'",
-      "BuyMenu": {
-        "Category": 1,
-        "TeamId": 0,
-        "Cost": 1400,
-        "Image": "/Script/Engine.Texture2D'/UGC3269978/M110/icon_m110.icon_m110'"
-      },
-      "MagazineCount": 3,
-      "KillBonus": 500,
-      "BaseDamage": 25,
-      "ArmourDamage": 25,
-      "ArmourPenetration": 100,
-      "HelmetDamage": 100,
-      "HelmetBleed": 75,
-      "GunPenetration": 100,
-      "FalloddModifier": 1,
-      "MinFalloffDist": 500,
-      "MaxFalloffDist": 4000
-    },
-    {
-      "GunName": "m110_",
-      "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269978/M110/Gun_M110.Gun_M110_C'",
-      "BuyMenu": {
-        "Category": 1,
-        "TeamId": 1,
-        "Cost": 1400,
-        "Image": "/Script/Engine.Texture2D'/UGC3269978/M110/icon_m110.icon_m110'"
-      },
-      "MagazineCount": 3,
-      "KillBonus": 500,
-      "BaseDamage": 25,
-      "ArmourDamage": 25,
-      "ArmourPenetration": 100,
-      "HelmetDamage": 100,
-      "HelmetBleed": 75,
-      "GunPenetration": 100,
-      "FalloddModifier": 1,
-      "MinFalloffDist": 500,
-      "MaxFalloffDist": 4000
-    },
-    {
       "GunName": "scope_m3a_",
       "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269978/Scope_M3A/Scope_M3A.Scope_M3A_C'",
       "BuyMenu": {
@@ -975,6 +933,48 @@
       "ArmourPenetration": 100,
       "HelmetDamage": 100,
       "HelmetBleed": 100,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
+    },
+    {
+      "GunName": "m110_blue",
+      "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269978/M110/Gun_M110_Tan.Gun_M110_Tan_C'",
+      "BuyMenu": {
+        "Category": 1,
+        "TeamId": 0,
+        "Cost": 1400,
+        "Image": "/Script/Engine.Texture2D'/UGC3269978/M110/icon_m110.icon_m110'"
+      },
+      "MagazineCount": 3,
+      "KillBonus": 500,
+      "BaseDamage": 25,
+      "ArmourDamage": 25,
+      "ArmourPenetration": 100,
+      "HelmetDamage": 100,
+      "HelmetBleed": 75,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
+    },
+    {
+      "GunName": "m110_red",
+      "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269978/M110/Gun_M110.Gun_M110_C'",
+      "BuyMenu": {
+        "Category": 1,
+        "TeamId": 1,
+        "Cost": 1400,
+        "Image": "/Script/Engine.Texture2D'/UGC3269978/M110/icon_m110.icon_m110'"
+      },
+      "MagazineCount": 3,
+      "KillBonus": 500,
+      "BaseDamage": 25,
+      "ArmourDamage": 25,
+      "ArmourPenetration": 100,
+      "HelmetDamage": 100,
+      "HelmetBleed": 75,
       "GunPenetration": 100,
       "FalloddModifier": 1,
       "MinFalloffDist": 500,
