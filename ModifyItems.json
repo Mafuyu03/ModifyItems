@@ -1087,42 +1087,6 @@
       "MaxFalloffDist": 4000
     },
     {
-      "GunName": "ak74m",
-      "BuyMenu": {
-        "Category": 0,
-        "TeamId": -1,
-        "Cost": 2500
-      },
-      "KillBonus": 100,
-      "BaseDamage": 25,
-      "ArmourDamage": 25,
-      "ArmourPenetration": 100,
-      "HelmetDamage": 100,
-      "HelmetBleed": 70,
-      "GunPenetration": 100,
-      "FalloddModifier": 1,
-      "MinFalloffDist": 500,
-      "MaxFalloffDist": 4000
-    },
-    {
-      "GunName": "ak74m_gp25",
-      "BuyMenu": {
-        "Category": 0,
-        "TeamId": -1,
-        "Cost": 2500
-      },
-      "KillBonus": 100,
-      "BaseDamage": 25,
-      "ArmourDamage": 25,
-      "ArmourPenetration": 100,
-      "HelmetDamage": 100,
-      "HelmetBleed": 70,
-      "GunPenetration": 100,
-      "FalloddModifier": 1,
-      "MinFalloffDist": 500,
-      "MaxFalloffDist": 4000
-    },
-    {
       "GunName": "sv98",
       "BuyMenu": {
         "Category": 0,
@@ -1861,24 +1825,6 @@
       "MaxFalloffDist": 4000
     },
     {
-      "GunName": "m16a3",
-      "BuyMenu": {
-        "Category": 0,
-        "TeamId": -1,
-        "Cost": 2500
-      },
-      "KillBonus": 100,
-      "BaseDamage": 20,
-      "ArmourDamage": 20,
-      "ArmourPenetration": 100,
-      "HelmetDamage": 100,
-      "HelmetBleed": 75,
-      "GunPenetration": 100,
-      "FalloddModifier": 1,
-      "MinFalloffDist": 500,
-      "MaxFalloffDist": 4000
-    },
-    {
       "GunName": "m9a1",
       "BuyMenu": {
         "Category": 0,
@@ -1895,6 +1841,60 @@
       "FalloddModifier": 1,
       "MinFalloffDist": 500,
       "MaxFalloffDist": 4000
-    }
+    },
+    {
+      "GunName": "m16a3",
+      "BuyMenu": {
+        "Category": 0,
+        "TeamId": 0,
+        "Cost": 2500
+      },
+      "KillBonus": 100,
+      "BaseDamage": 20,
+      "ArmourDamage": 20,
+      "ArmourPenetration": 100,
+      "HelmetDamage": 100,
+      "HelmetBleed": 75,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
+    },
+    {
+      "GunName": "ak74m",
+      "BuyMenu": {
+        "Category": 0,
+        "TeamId": 1,
+        "Cost": 2500
+      },
+      "KillBonus": 100,
+      "BaseDamage": 25,
+      "ArmourDamage": 25,
+      "ArmourPenetration": 100,
+      "HelmetDamage": 100,
+      "HelmetBleed": 70,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
+    },
+    {
+      "GunName": "ak74m_gp25",
+      "BuyMenu": {
+        "Category": 0,
+        "TeamId": 1,
+        "Cost": 2500
+      },
+      "KillBonus": 100,
+      "BaseDamage": 25,
+      "ArmourDamage": 25,
+      "ArmourPenetration": 100,
+      "HelmetDamage": 100,
+      "HelmetBleed": 70,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
+    },
   ]
 }
