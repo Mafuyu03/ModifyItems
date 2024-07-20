@@ -941,48 +941,6 @@
       "MaxFalloffDist": 4000
     },
     {
-      "GunName": "m24sws_blue",
-      "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269978/M24SWS/Gun_M24SWS_DESERT.Gun_M24SWS_DESERT_C'",
-      "BuyMenu": {
-        "Category": 1,
-        "TeamId": 0,
-        "Cost": 900,
-        "Image": "/Script/Engine.Texture2D'/UGC3269978/M24SWS/icon_m24sws.icon_m24sws'"
-      },
-      "MagazineCount": 3,
-      "KillBonus": 700,
-      "BaseDamage": 85,
-      "ArmourDamage": 83,
-      "ArmourPenetration": 98,
-      "HelmetDamage": 100,
-      "HelmetBleed": 100,
-      "GunPenetration": 100,
-      "FalloddModifier": 1,
-      "MinFalloffDist": 500,
-      "MaxFalloffDist": 4000
-    },
-    {
-      "GunName": "m24sws_red",
-      "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269978/M24SWS/Gun_M24SWS.Gun_M24SWS_C'",
-      "BuyMenu": {
-        "Category": 1,
-        "TeamId": 1,
-        "Cost": 900,
-        "Image": "/Script/Engine.Texture2D'/UGC3269978/M24SWS/icon_m24sws.icon_m24sws'"
-      },
-      "MagazineCount": 3,
-      "KillBonus": 700,
-      "BaseDamage": 85,
-      "ArmourDamage": 83,
-      "ArmourPenetration": 98,
-      "HelmetDamage": 100,
-      "HelmetBleed": 100,
-      "GunPenetration": 100,
-      "FalloddModifier": 1,
-      "MinFalloffDist": 500,
-      "MaxFalloffDist": 4000
-    },
-    {
       "GunName": "ak74m_blue",
       "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269978/AK74M/Gun_AK74M.Gun_AK74M_C'",
       "BuyMenu": {
@@ -1061,6 +1019,48 @@
       "ArmourPenetration": 100,
       "HelmetDamage": 100,
       "HelmetBleed": 70,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
+    },    
+    {
+      "GunName": "m24sws_blue",
+      "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269978/M24SWS/Gun_M24SWS_DESERT.Gun_M24SWS_DESERT_C'",
+      "BuyMenu": {
+        "Category": 1,
+        "TeamId": 0,
+        "Cost": 900,
+        "Image": "/Script/Engine.Texture2D'/UGC3269978/M24SWS/icon_m24sws.icon_m24sws'"
+      },
+      "MagazineCount": 3,
+      "KillBonus": 700,
+      "BaseDamage": 85,
+      "ArmourDamage": 83,
+      "ArmourPenetration": 98,
+      "HelmetDamage": 100,
+      "HelmetBleed": 100,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
+    },
+    {
+      "GunName": "m24sws_red",
+      "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269978/M24SWS/Gun_M24SWS.Gun_M24SWS_C'",
+      "BuyMenu": {
+        "Category": 1,
+        "TeamId": 1,
+        "Cost": 900,
+        "Image": "/Script/Engine.Texture2D'/UGC3269978/M24SWS/icon_m24sws.icon_m24sws'"
+      },
+      "MagazineCount": 3,
+      "KillBonus": 700,
+      "BaseDamage": 85,
+      "ArmourDamage": 83,
+      "ArmourPenetration": 98,
+      "HelmetDamage": 100,
+      "HelmetBleed": 100,
       "GunPenetration": 100,
       "FalloddModifier": 1,
       "MinFalloffDist": 500,
