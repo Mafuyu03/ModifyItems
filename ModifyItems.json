@@ -979,6 +979,90 @@
       "FalloddModifier": 1,
       "MinFalloffDist": 500,
       "MaxFalloffDist": 4000
+    },
+    {
+      "GunName": "ak74m_blue",
+      "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269978/AK74M/Gun_AK74M.Gun_AK74M_C'",
+      "BuyMenu": {
+        "Category": 3,
+        "TeamId": 0,
+        "Cost": 2500,
+        "Image": "/Script/Engine.Texture2D'/UGC3269978/AK74M/icon_ak74m.icon_ak74m'"
+      },
+      "MagazineCount": 3,
+      "KillBonus": 100,
+      "BaseDamage": 25,
+      "ArmourDamage": 25,
+      "ArmourPenetration": 100,
+      "HelmetDamage": 100,
+      "HelmetBleed": 70,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
+    },
+    {
+      "GunName": "ak74m_red",
+      "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269978/AK74M/Gun_AK74M.Gun_AK74M_C'",
+      "BuyMenu": {
+        "Category": 3,
+        "TeamId": 1,
+        "Cost": 2500,
+        "Image": "/Script/Engine.Texture2D'/UGC3269978/AK74M/icon_ak74m.icon_ak74m'"
+      },
+      "MagazineCount": 3,
+      "KillBonus": 100,
+      "BaseDamage": 25,
+      "ArmourDamage": 25,
+      "ArmourPenetration": 100,
+      "HelmetDamage": 100,
+      "HelmetBleed": 70,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
+    },
+    {
+      "GunName": "ak74m_gp25_blue",
+      "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269978/AK74M/Gun_AK74M_GP25.Gun_AK74M_GP25_C'",
+      "BuyMenu": {
+        "Category": 3,
+        "TeamId": 0,
+        "Cost": 2500,
+        "Image": "/Script/Engine.Texture2D'/UGC3269978/AK74M/icon_ak74mgp25m.icon_ak74mgp25'"
+      },
+      "MagazineCount": 3,
+      "KillBonus": 100,
+      "BaseDamage": 25,
+      "ArmourDamage": 25,
+      "ArmourPenetration": 100,
+      "HelmetDamage": 100,
+      "HelmetBleed": 70,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
+    },
+    {
+      "GunName": "ak74m_gp25_red",
+      "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269978/AK74M/Gun_AK74M_GP25.Gun_AK74M_GP25_C'",
+      "BuyMenu": {
+        "Category": 3,
+        "TeamId": 1,
+        "Cost": 2500,
+        "Image": "/Script/Engine.Texture2D'/UGC3269978/AK74M/icon_ak74mgp25m.icon_ak74mgp25'"
+      },
+      "MagazineCount": 3,
+      "KillBonus": 100,
+      "BaseDamage": 25,
+      "ArmourDamage": 25,
+      "ArmourPenetration": 100,
+      "HelmetDamage": 100,
+      "HelmetBleed": 70,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
     }
   ],
   "UpdateDetails": [
