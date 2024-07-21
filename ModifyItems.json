@@ -1150,48 +1150,6 @@
       "FalloddModifier": 1,
       "MinFalloffDist": 1000,
       "MaxFalloffDist": 1250
-    },
-    {
-      "GunName": "ak47gp25_cm_blue",
-      "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269978/AK47/Gun_AK47_GP25.Gun_AK47_GP25_C'",
-      "BuyMenu": {
-        "Category": 3,
-        "TeamId": 0,
-        "Cost": 2500,
-        "Image": "/Script/Engine.Texture2D'/UGC3269978/AK47/icon_ak47gp25cm.icon_ak47gp25cm'"
-      },
-      "MagazineCount": 3,
-      "KillBonus": 100,
-      "BaseDamage": 25,
-      "ArmourDamage": 25,
-      "ArmourPenetration": 100,
-      "HelmetDamage": 100,
-      "HelmetBleed": 100,
-      "GunPenetration": 100,
-      "FalloddModifier": 1,
-      "MinFalloffDist": 500,
-      "MaxFalloffDist": 4000
-    },
-    {
-      "GunName": "ak47gp25_cm_red",
-      "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269978/AK47/Gun_AK47_GP25.Gun_AK47_GP25_C'",
-      "BuyMenu": {
-        "Category": 3,
-        "TeamId": 1,
-        "Cost": 2500,
-        "Image": "/Script/Engine.Texture2D'/UGC3269978/AK47/icon_ak47gp25cm.icon_ak47gp25cm'"
-      },
-      "MagazineCount": 3,
-      "KillBonus": 100,
-      "BaseDamage": 25,
-      "ArmourDamage": 25,
-      "ArmourPenetration": 100,
-      "HelmetDamage": 100,
-      "HelmetBleed": 100,
-      "GunPenetration": 100,
-      "FalloddModifier": 1,
-      "MinFalloffDist": 500,
-      "MaxFalloffDist": 4000
     }
   ],
   "UpdateDetails": [
