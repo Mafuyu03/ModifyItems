@@ -5,7 +5,6 @@
     "grot",
     "grot-bl",
     "ak47_cm",
-    "ak47gp25_cm",
     "vss",
     "asval",
     "m16a3m203",
@@ -56,7 +55,8 @@
     "m4a1m203",
     "aks74u",
     "mp7_tan",
-    "mp7"
+    "mp7",
+    "ak47gp25_cm"
   ],
   "AddGuns": [
     {
@@ -1150,6 +1150,48 @@
       "FalloddModifier": 1,
       "MinFalloffDist": 1000,
       "MaxFalloffDist": 1250
+    },
+    {
+      "GunName": "ak47gp25_cm_blue",
+      "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269978/AK47/Gun_AK47_GP25.Gun_AK47_GP25_C'",
+      "BuyMenu": {
+        "Category": 3,
+        "TeamId": 0,
+        "Cost": 2500,
+        "Image": "/Script/Engine.Texture2D'/UGC3269978/AK47/icon_ak47gp25cm.icon_ak47gp25cm'"
+      },
+      "MagazineCount": 3,
+      "KillBonus": 100,
+      "BaseDamage": 25,
+      "ArmourDamage": 25,
+      "ArmourPenetration": 100,
+      "HelmetDamage": 100,
+      "HelmetBleed": 100,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
+    },
+    {
+      "GunName": "ak47gp25_cm_red",
+      "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269978/AK47/Gun_AK47_GP25.Gun_AK47_GP25_C'",
+      "BuyMenu": {
+        "Category": 3,
+        "TeamId": 1,
+        "Cost": 2500,
+        "Image": "/Script/Engine.Texture2D'/UGC3269978/AK47/icon_ak47gp25cm.icon_ak47gp25cm'"
+      },
+      "MagazineCount": 3,
+      "KillBonus": 100,
+      "BaseDamage": 25,
+      "ArmourDamage": 25,
+      "ArmourPenetration": 100,
+      "HelmetDamage": 100,
+      "HelmetBleed": 100,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
     }
   ],
   "UpdateDetails": [
@@ -1994,6 +2036,24 @@
       "ArmourPenetration": 100,
       "HelmetDamage": 100,
       "HelmetBleed": 75,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
+    },
+    {
+      "GunName": "ak47gp25_cm",
+      "BuyMenu": {
+        "Category": 0,
+        "TeamId": 1,
+        "Cost": 2500
+      },
+      "KillBonus": 100,
+      "BaseDamage": 25,
+      "ArmourDamage": 25,
+      "ArmourPenetration": 100,
+      "HelmetDamage": 100,
+      "HelmetBleed": 100,
       "GunPenetration": 100,
       "FalloddModifier": 1,
       "MinFalloffDist": 500,
