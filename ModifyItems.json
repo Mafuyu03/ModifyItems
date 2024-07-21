@@ -1985,7 +1985,43 @@
       "GunName": "m4a1m203",
       "BuyMenu": {
         "Category": 0,
+        "TeamId": -1,
+        "Cost": 2700
+      },
+      "KillBonus": 100,
+      "BaseDamage": 20,
+      "ArmourDamage": 20,
+      "ArmourPenetration": 100,
+      "HelmetDamage": 100,
+      "HelmetBleed": 75,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
+    },
+    {
+      "GunName": "m4a1m203_blue",
+      "BuyMenu": {
+        "Category": 0,
         "TeamId": 0,
+        "Cost": 2700
+      },
+      "KillBonus": 100,
+      "BaseDamage": 20,
+      "ArmourDamage": 20,
+      "ArmourPenetration": 100,
+      "HelmetDamage": 100,
+      "HelmetBleed": 75,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
+    },
+    {
+      "GunName": "m4a1m203_red",
+      "BuyMenu": {
+        "Category": 0,
+        "TeamId": 1,
         "Cost": 2700
       },
       "KillBonus": 100,
