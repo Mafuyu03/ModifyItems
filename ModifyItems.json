@@ -1068,12 +1068,12 @@
     },
     {
       "GunName": "m4a1m203_blue",
-      "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269978/M4A1/Gun_M4A1_M203.Gun_M4A1_M203_C'",
+      "GunClass": "/UGC3269978/M4A1/Gun_M4A1_M203.Gun_M4A1_M203_C",
       "BuyMenu": {
         "Category": 3,
         "TeamId": 0,
         "Cost": 2700,
-        "Image": "/Script/Engine.Texture2D'/UGC3269978/M4A1/icon_m4a1_m203.icon_m4a1_m203'"
+        "Image": "/UGC3269978/M4A1/icon_m4a1_m203.icon_m4a1_m203"
       },
       "MagazineCount": 3,
       "KillBonus": 100,
@@ -1089,12 +1089,12 @@
     },
     {
       "GunName": "m4a1m203_red",
-      "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269978/M4A1/Gun_M4A1_M203.Gun_M4A1_M203_C'",
+      "GunClass": "/UGC3269978/M4A1/Gun_M4A1_M203.Gun_M4A1_M203_C",
       "BuyMenu": {
         "Category": 3,
         "TeamId": 1,
         "Cost": 2700,
-        "Image": "/Script/Engine.Texture2D'/UGC3269978/M4A1/icon_m4a1_m203.icon_m4a1_m203'"
+        "Image": "/UGC3269978/M4A1/icon_m4a1_m203.icon_m4a1_m203"
       },
       "MagazineCount": 3,
       "KillBonus": 100,
