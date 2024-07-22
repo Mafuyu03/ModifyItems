@@ -477,7 +477,7 @@
       "BuyMenu": {
         "Category": 3,
         "TeamId": 0,
-        "Cost": 2400,
+        "Cost": 2300,
         "Image": "/Script/Engine.Texture2D'/UGC3936882/MK17/T_MK17_Icon.T_MK17_Icon'"
       },
       "MagazineCount": 3,
@@ -498,7 +498,7 @@
       "BuyMenu": {
         "Category": 3,
         "TeamId": 1,
-        "Cost": 2400,
+        "Cost": 2300,
         "Image": "/Script/Engine.Texture2D'/UGC3936882/MK17/T_MK17_Icon.T_MK17_Icon'"
       },
       "MagazineCount": 3,
