@@ -6,7 +6,6 @@
     "grot-bl",
     "ak47_cm",
     "vss",
-    "asval",
     "m16a3m203",
     "m16a4",
     "m4a1",
@@ -69,7 +68,8 @@
     "mg42_bipod",
     "pkm_bipod",
     "pkm_vdgm_bipod",
-    "l85a1"
+    "l85a1",
+    "asval"
   ],
   "AddGuns": [
     {
@@ -1205,6 +1205,48 @@
       "FalloddModifier": 1,
       "MinFalloffDist": 500,
       "MaxFalloffDist": 4000
+    },
+    {
+      "GunName": "asval_blue",
+      "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269978/ASVAL/Gun_ASVAL.Gun_ASVAL_C'",
+      "BuyMenu": {
+        "Category": 2,
+        "TeamId": 1,
+        "Cost": 2200,
+        "Image": "/Script/Engine.Texture2D'/UGC3269978/ASVAL/icon_asval.icon_asval'"
+      },
+      "MagazineCount": 3,
+      "KillBonus": 300,
+      "BaseDamage": 20,
+      "ArmourDamage": 16,
+      "ArmourPenetration": 84,
+      "HelmetDamage": 50,
+      "HelmetBleed": 70,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
+    },
+    {
+      "GunName": "asval_red",
+      "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269978/ASVAL/Gun_ASVAL.Gun_ASVAL_C'",
+      "BuyMenu": {
+        "Category": 2,
+        "TeamId": 1,
+        "Cost": 2200,
+        "Image": "/Script/Engine.Texture2D'/UGC3269978/ASVAL/icon_asval.icon_asval'"
+      },
+      "MagazineCount": 3,
+      "KillBonus": 300,
+      "BaseDamage": 20,
+      "ArmourDamage": 16,
+      "ArmourPenetration": 84,
+      "HelmetDamage": 50,
+      "HelmetBleed": 70,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
     }
   ],
   "UpdateDetails": [
@@ -2085,6 +2127,24 @@
       "ArmourPenetration": 84,
       "HelmetDamage": 100,
       "HelmetBleed": 60,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
+    },
+    {
+      "GunName": "asval",
+      "BuyMenu": {
+        "Category": 2,
+        "TeamId": 1,
+        "Cost": 2200
+      },
+      "KillBonus": 300,
+      "BaseDamage": 20,
+      "ArmourDamage": 16,
+      "ArmourPenetration": 84,
+      "HelmetDamage": 50,
+      "HelmetBleed": 70,
       "GunPenetration": 100,
       "FalloddModifier": 1,
       "MinFalloffDist": 500,
