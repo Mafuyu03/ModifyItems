@@ -34,10 +34,6 @@
     "scope_pk06",
     "scope_pkas",
     "scope_pso1",
-    "mk17",
-    "mk17_blk",
-    "glock19_army",
-    "glock19",
     "scope_m3a",
     "mp443",
     "m17",
@@ -69,7 +65,11 @@
     "mg42_bipod",
     "pkm_bipod",
     "l85a1",
-    "asval"
+    "asval",
+    "mk17",
+    "mk17_blk",
+    "glock19_army",
+    "glock19"
   ],
   "AddGuns": [
     {
@@ -514,7 +514,7 @@
       "MaxFalloffDist": 4000
     }, 
     {
-      "GunName": "glock19_army_",
+      "GunName": "glock19_blue",
       "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3272975/Glock19/Gun_Glock19_Army.Gun_Glock19_Army_C'",
       "BuyMenu": {
         "Category": 6,
@@ -535,7 +535,7 @@
       "MaxFalloffDist": 4000
     },
     {
-      "GunName": "glock19_",
+      "GunName": "glock19_red",
       "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3272975/Glock19/Gun_Glock19.Gun_Glock19_C'",
       "BuyMenu": {
         "Category": 6,
