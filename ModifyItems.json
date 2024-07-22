@@ -1128,7 +1128,7 @@
       "BuyMenu": {
         "Category": 2,
         "TeamId": 0,
-        "Cost": 1400,
+        "Cost": 1200,
         "Image": "/Script/Engine.Texture2D'/UGC3992329/T_MP7_Icon.T_MP7_Icon'"
       },
       "MagazineCount": 3,
@@ -1149,7 +1149,7 @@
       "BuyMenu": {
         "Category": 2,
         "TeamId": 1,
-        "Cost": 1400,
+        "Cost": 1200,
         "Image": "/Script/Engine.Texture2D'/UGC3992329/T_MP7_Icon.T_MP7_Icon'"
       },
       "MagazineCount": 3,
@@ -1771,7 +1771,7 @@
       "BuyMenu": {
         "Category": 0,
         "TeamId": 0,
-        "Cost": 1400
+        "Cost": 1200
       },
       "KillBonus": 500,
       "BaseDamage": 20,
@@ -1789,7 +1789,7 @@
       "BuyMenu": {
         "Category": 0,
         "TeamId": 1,
-        "Cost": 1400
+        "Cost": 1200
       },
       "KillBonus": 500,
       "BaseDamage": 20,
