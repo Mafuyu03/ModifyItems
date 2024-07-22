@@ -2070,6 +2070,24 @@
       "FalloddModifier": 1,
       "MinFalloffDist": 500,
       "MaxFalloffDist": 4000
+    },
+    {
+      "GunName": "l85a1",
+      "BuyMenu": {
+        "Category": 2,
+        "TeamId": 0,
+        "Cost": 1500
+      },
+      "KillBonus": 500,
+      "BaseDamage": 20,
+      "ArmourDamage": 16,
+      "ArmourPenetration": 84,
+      "HelmetDamage": 100,
+      "HelmetBleed": 60,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
     }
   ]
 }
