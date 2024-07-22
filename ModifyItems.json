@@ -1210,8 +1210,8 @@
       "GunName": "asval_blue",
       "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269978/ASVAL/Gun_ASVAL.Gun_ASVAL_C'",
       "BuyMenu": {
-        "Category": 2,
-        "TeamId": 1,
+        "Category": 3,
+        "TeamId": 0,
         "Cost": 2200,
         "Image": "/Script/Engine.Texture2D'/UGC3269978/ASVAL/icon_asval.icon_asval'"
       },
@@ -1231,7 +1231,7 @@
       "GunName": "asval_red",
       "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269978/ASVAL/Gun_ASVAL.Gun_ASVAL_C'",
       "BuyMenu": {
-        "Category": 2,
+        "Category": 3,
         "TeamId": 1,
         "Cost": 2200,
         "Image": "/Script/Engine.Texture2D'/UGC3269978/ASVAL/icon_asval.icon_asval'"
