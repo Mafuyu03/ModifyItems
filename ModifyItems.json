@@ -1162,6 +1162,48 @@
       "FalloddModifier": 1,
       "MinFalloffDist": 1000,
       "MaxFalloffDist": 1250
+    },
+    {
+      "GunName": "l85a1_blue",
+      "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3395365/Guns/L85A1/Gun_L85.Gun_L85_C'",
+      "BuyMenu": {
+        "Category": 2,
+        "TeamId": 0,
+        "Cost": 1500,
+        "Image": "/Script/Engine.Texture2D'/UGC3395365/Guns/L85A1/Icon/l85_icon.l85_icon'"
+      },
+      "MagazineCount": 3,
+      "KillBonus": 500,
+      "BaseDamage": 20,
+      "ArmourDamage": 16,
+      "ArmourPenetration": 84,
+      "HelmetDamage": 100,
+      "HelmetBleed": 60,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
+    },
+    {
+      "GunName": "l85a1_red",
+      "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3395365/Guns/L85A1/Gun_L85.Gun_L85_C'",
+      "BuyMenu": {
+        "Category": 2,
+        "TeamId": 1,
+        "Cost": 1500,
+        "Image": "/Script/Engine.Texture2D'/UGC3395365/Guns/L85A1/Icon/l85_icon.l85_icon'"
+      },
+      "MagazineCount": 3,
+      "KillBonus": 500,
+      "BaseDamage": 20,
+      "ArmourDamage": 16,
+      "ArmourPenetration": 84,
+      "HelmetDamage": 100,
+      "HelmetBleed": 60,
+      "GunPenetration": 100,
+      "FalloddModifier": 1,
+      "MinFalloffDist": 500,
+      "MaxFalloffDist": 4000
     }
   ],
   "UpdateDetails": [
