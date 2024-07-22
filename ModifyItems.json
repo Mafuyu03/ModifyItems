@@ -1254,7 +1254,7 @@
       "GunName": "aks74u",
       "BuyMenu": {
         "Category": 0,
-        "TeamId": -1,
+        "TeamId": 1,
         "Cost": 1500
       },
       "KillBonus": 500,
@@ -1272,7 +1272,7 @@
       "GunName": "sv98",
       "BuyMenu": {
         "Category": 0,
-        "TeamId": -1,
+        "TeamId": 1,
         "Cost": 1500
       },
       "KillBonus": 700,
@@ -1290,7 +1290,7 @@
       "GunName": "m16a4m203",
       "BuyMenu": {
         "Category": 0,
-        "TeamId": -1,
+        "TeamId": 0,
         "Cost": 1900
       },
       "KillBonus": 300,
@@ -2010,7 +2010,7 @@
       "GunName": "m9a1",
       "BuyMenu": {
         "Category": 0,
-        "TeamId": -1,
+        "TeamId": 1,
         "Cost": 300
       },
       "KillBonus": 700,
@@ -2135,7 +2135,7 @@
     {
       "GunName": "asval",
       "BuyMenu": {
-        "Category": 2,
+        "Category": 3,
         "TeamId": 1,
         "Cost": 2200
       },
