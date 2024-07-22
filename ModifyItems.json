@@ -472,7 +472,7 @@
       "MaxFalloffDist": 4000
     },
     {
-      "GunName": "mk17_",
+      "GunName": "mk17_blue",
       "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3936882/Gun_MK17_Short.Gun_MK17_Short_C'",
       "BuyMenu": {
         "Category": 3,
@@ -493,7 +493,7 @@
       "MaxFalloffDist": 4000
     },
     {
-      "GunName": "mk17_blk_",
+      "GunName": "mk17_red",
       "GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3936882/Gun_MK17_Short_BLK.Gun_MK17_Short_BLK_C'",
       "BuyMenu": {
         "Category": 3,
@@ -1777,7 +1777,7 @@
       "BuyMenu": {
         "Category": 0,
         "TeamId": 0,
-        "Cost": 2400
+        "Cost": 2300
       },
       "KillBonus": 300,
       "BaseDamage": 25,
@@ -1795,7 +1795,7 @@
       "BuyMenu": {
         "Category": 0,
         "TeamId": 1,
-        "Cost": 2400
+        "Cost": 2300
       },
       "KillBonus": 300,
       "BaseDamage": 25,
